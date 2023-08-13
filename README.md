@@ -26,7 +26,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=aryanr78&theme=dracula&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats-9e4w.vercel.app/api?username=aryanr78&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only
-)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)[![Anurag's GitHub stats-Light](https://github-readme-stats-9e4w.vercel.app/api?username=aryanr78&show_icons=true&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)   [![GitHub Streak](https://streak-stats.demolab.com?user=aryanr78&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=470)](https://git.io/streak-stats)
+)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)[![Anurag's GitHub stats-Light](https://github-readme-stats-9e4w.vercel.app/api?username=aryanr78&show_icons=true&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)        [![GitHub Streak](https://streak-stats.demolab.com?user=aryanr78&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=470)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanr78&layout=compact)
 ](https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanr78&layout=pie)   [![Spotify](https://novatorem-novatorem-git-main-aryanr78.vercel.app/api/spotify)](https://open.spotify.com/user/4ytub86gtnmr0ezrg5jten30c)
