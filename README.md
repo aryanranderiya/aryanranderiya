@@ -1,8 +1,8 @@
-<center><h1>Hey there! 👋</h1></center>
+<h1>Hey there! 👋</h1>
 
 ![](https://komarev.com/ghpvc/?username=aryanr78&color=00bbff&style=flat)
 
-I'm an 18 y/o young tech enthusiast interested in computers! <br><br>
+18 y/o tech enthusiast! <br><br>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanr78&theme=dark)
 
