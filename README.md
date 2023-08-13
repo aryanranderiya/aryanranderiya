@@ -1,11 +1,13 @@
-### Hi there 👋
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanr78)](https://github.com/anuraghazra/github-readme-stats)
+Hey there! 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats-9e4w-1q7im80xp-aryanr78.vercel.app/api?username=aryanr78)
 ](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanr78)](https://github.com/anuraghazra/github-readme-stats)
+
 **aryanr78/aryanr78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
