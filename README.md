@@ -1,5 +1,8 @@
 Hey there! 👋
 
+<a href="https://twitter.com/w0lfzzy"<img height="32" width="32" src="https://cdn.simpleicons.org/twitter/#1D9BF0" /></a>
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=aryanr78&theme=dracula&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats-9e4w.vercel.app/api?username=aryanr78&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
