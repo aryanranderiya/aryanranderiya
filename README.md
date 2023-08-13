@@ -1,6 +1,7 @@
 Hey there! 👋
 
-<a href="https://twitter.com/w0lfzzy"<img height="32" width="32" src="https://cdn.simpleicons.org/twitter/#1D9BF0" /></a>
+<a href="https://twitter.com/w0lfzzy"><img height="32" width="32" src="https://cdn.simpleicons.org/twitter/#1D9BF0" /></a>
+<a href="https://instagram.com/aryanranderiya"><img height="32" width="32" src="https://cdn.simpleicons.org/instagram/#E4405F" /></a>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aryanr78&theme=dracula&column=9)](https://github.com/ryo-ma/github-profile-trophy)
