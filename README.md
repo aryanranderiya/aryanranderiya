@@ -3,6 +3,10 @@ Hey there! 👋
 [![Anurag's GitHub stats](https://github-readme-stats-9e4w.vercel.app/api?username=aryanr78)
 ](https://github-readme-stats-9e4w-1q7im80xp-aryanr78.vercel.app/api?username=aryanr78)
 
+[![Spotify](novatorem-novatorem-git-main-aryanr78.vercel.app/api/spotify)](https://open.spotify.com/user/4ytub86gtnmr0ezrg5jten30c)
+
+
+
 <!--
 
 
