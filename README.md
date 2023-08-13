@@ -11,7 +11,7 @@ Hey there! 👋
 
 [![Anurag's GitHub stats-Light](https://github-readme-stats-9e4w.vercel.app/api?username=aryanr78&show_icons=true&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aryanr78&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aryanr78&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=450)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanr78&layout=compact)
 ](https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanr78&layout=pie)
