@@ -6,14 +6,14 @@ I'm an 18 y/o young tech enthusiast interested in computers! <br><br>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanr78&theme=dark)
 
-<h2>Follow Me!</h2>
+<br><h2>Follow Me</h2>
 <p>
 <a href="https://twitter.com/w0lfzzy"><img height="32" width="32" src="https://cdn.simpleicons.org/twitter/#1D9BF0" /></a>
 <a href="https://instagram.com/aryanranderiya"><img height="32" width="32" src="https://cdn.simpleicons.org/instagram/#E4405F" /></a>
 <a href="https://instagram.com/aryanranderiya"><img height="32" src="https://dcbadge.vercel.app/api/shield/521279231284609032?theme=clean-inverted" /></a>
 </p>
 
-<h2>Languages / Tools </h2>
+<br><h2>Languages / Tools </h2>
 <center>
 <p>
 <img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
@@ -29,14 +29,20 @@ I'm an 18 y/o young tech enthusiast interested in computers! <br><br>
 </p>
 </center>
 
-<h2>Statistics!</h2>
+<br><h2>Stats</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aryanr78&theme=dracula&column=9)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats-9e4w.vercel.app/api?username=aryanr78&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only
 )](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)[![Anurag's GitHub stats-Light](https://github-readme-stats-9e4w.vercel.app/api?username=aryanr78&show_icons=true&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)        [![GitHub Streak](https://streak-stats.demolab.com?user=aryanr78&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=470)](https://git.io/streak-stats)
 
+<br>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aryanr78&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>
 
 [![Top Langs](https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanr78&layout=compact&hide=javascript,jinja)
 ](https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanr78&layout=pie)   [![Spotify](https://novatorem-novatorem-git-main-aryanr78.vercel.app/api/spotify)](https://open.spotify.com/user/4ytub86gtnmr0ezrg5jten30c)
