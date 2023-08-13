@@ -1,4 +1,5 @@
 <h1>Hey there! 👋</h1>
+I'm an 18 y/o young tech enthusiast interested in computers!
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanr78&theme=dark)
 
@@ -26,6 +27,8 @@
 <img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/linux/linux.png" />
 </p>
 </center>
+
+<h2>Statistics!</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aryanr78&theme=dracula&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 
