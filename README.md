@@ -1,12 +1,22 @@
 <h1>Hey there! 👋</h1>
 
 <h2>Follow Me!</h2>
+<p float=center >
 <a href="https://twitter.com/w0lfzzy"><img height="32" width="32" src="https://cdn.simpleicons.org/twitter/#1D9BF0" /></a>
-<a href="https://instagram.com/aryanranderiya"><img height="32" width="32" src="https://cdn.simpleicons.org/instagram/#E4405F" /></a>
+<a href="https://instagram.com/aryanranderiya"><img height="32" width="32" src="https://cdn.simpleicons.org/instagram/#E4405F" /></a> </p>
 
 <h2>Languages/Tools/Frameworks</h2>
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" /><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/android/android.png" /><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/python/python.png" /><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" /><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/html/html.png" /><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/css/css.png" /><img height="32" src="https://www.blender.org/wp-content/uploads/2020/07/blender_community_logo_white.png" /><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/ubuntu/ubuntu.png" /><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/linux/linux.png" />
-
+<p float=center >
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/android/android.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/python/python.png" />
+<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/html/html.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/css/css.png" />
+<img height="32" width="32" src="https://www.blender.org/wp-content/uploads/2020/07/blender_community_logo_white.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/ubuntu/ubuntu.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/linux/linux.png" />
+</p>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aryanr78&theme=dracula&column=9)](https://github.com/ryo-ma/github-profile-trophy)
