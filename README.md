@@ -4,7 +4,7 @@
 <p>
 <a href="https://twitter.com/w0lfzzy"><img height="32" width="32" src="https://cdn.simpleicons.org/twitter/#1D9BF0" /></a>
 <a href="https://instagram.com/aryanranderiya"><img height="32" width="32" src="https://cdn.simpleicons.org/instagram/#E4405F" /></a>
-<a href="https://instagram.com/aryanranderiya"><img height="32" width="32" src="https://dcbadge.vercel.app/api/shield/521279231284609032?theme=clean-inverted" /></a>
+<a href="https://instagram.com/aryanranderiya"><img height="32" src="https://dcbadge.vercel.app/api/shield/521279231284609032?theme=clean-inverted" /></a>
 </p>
 
 <h2>Languages / Tools </h2>
