@@ -1,4 +1,5 @@
 <h1>Hey there! 👋</h1>
+![](https://komarev.com/ghpvc/?username=aryanr78&color=00bbff>style=flat-square)
 
 <h2>Follow Me!</h2>
 <p>
