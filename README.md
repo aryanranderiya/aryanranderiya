@@ -8,6 +8,8 @@ Hey there! 👋
 [![Top Langs](https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanr78&layout=pie)
 ](https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanr78&layout=pie)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanr78)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Spotify](https://novatorem-novatorem-git-main-aryanr78.vercel.app/api/spotify)](https://open.spotify.com/user/4ytub86gtnmr0ezrg5jten30c)
 
 
