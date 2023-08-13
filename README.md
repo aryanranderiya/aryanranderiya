@@ -15,7 +15,7 @@
 <img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/html/html.png" />
 <img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/css/css.png" />
 <img height="50" src="https://www.blender.org/wp-content/uploads/2020/07/blender_community_logo_white.png" />
-<img height="50" width="50" src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png" />
+<img height="50" src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png" />
 <img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/ubuntu/ubuntu.png" />
 <img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/linux/linux.png" />
 </p>
