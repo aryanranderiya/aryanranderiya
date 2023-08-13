@@ -3,7 +3,10 @@
 <h2>Follow Me!</h2>
 <p>
 <a href="https://twitter.com/w0lfzzy"><img height="32" width="32" src="https://cdn.simpleicons.org/twitter/#1D9BF0" /></a>
-<a href="https://instagram.com/aryanranderiya"><img height="32" width="32" src="https://cdn.simpleicons.org/instagram/#E4405F" /></a> </p>
+<a href="https://instagram.com/aryanranderiya"><img height="32" width="32" src="https://cdn.simpleicons.org/instagram/#E4405F" /></a>
+<a href="https://instagram.com/aryanranderiya"><img height="32" width="32" src="https://cdn.simpleicons.org/instagram/#E4405F" /></a>
+https://dcbadge.vercel.app/api/shield/521279231284609032?theme=clean-inverted
+</p>
 
 <h2>Languages / Tools </h2>
 <center>
