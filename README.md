@@ -8,11 +8,11 @@
 
 <br><h2>Connect with me</h2>
 <p>
-<a href="https://twitter.com/w0lfzzy"><img height="35" width="35" src="https://cdn.simpleicons.org/twitter/#1D9BF0" /></a>
-<a href="https://instagram.com/aryanranderiya"><img height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
-<img height="30" src="https://dcbadge.vercel.app/api/shield/521279231284609032?theme=clean-inverted" /></a>
-<a href="https://behance.net/aryanranderiya"><img height="29" src="https://brandslogos.com/wp-content/uploads/images/behance-logo-vector.svg" /></a>
-<a href="https://linkedin.com/aryan-randeriya-362a2a278"><img height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" /></a>
+<a href="https://twitter.com/w0lfzzy"><img height="35" width="35" src="https://cdn.simpleicons.org/twitter/#1D9BF0" /></a>    
+<a href="https://instagram.com/aryanranderiya"><img height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />    
+<a href="https://behance.net/aryanranderiya"><img height="29" src="https://brandslogos.com/wp-content/uploads/images/behance-logo-vector.svg" /></a>    
+<a href="https://linkedin.com/aryan-randeriya-362a2a278"><img height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" /></a>    
+<img height="30" src="https://dcbadge.vercel.app/api/shield/521279231284609032?theme=clean-inverted" /></a>    
 </p>
 
 
