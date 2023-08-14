@@ -11,8 +11,10 @@
 <a href="https://twitter.com/w0lfzzy"><img height="32" width="32" src="https://cdn.simpleicons.org/twitter/#1D9BF0" /></a>
 <a href="https://instagram.com/aryanranderiya"><img height="32" width="32" src="![image](https://github.com/aryanr78/aryanr78/assets/64796509/d7b247f8-4a5d-4fe4-9d51-e2fa4079f43a)
 " /></a>
-<a href="https://instagram.com/aryanranderiya"><img height="32" src="https://dcbadge.vercel.app/api/shield/521279231284609032?theme=clean-inverted" /></a>
-<a href="https://behance.net/aryanranderiya"><img height="32" src="https://brandslogos.com/wp-content/uploads/images/behance-logo-vector.svg" /></a>
+  
+<img height="32" src="https://dcbadge.vercel.app/api/shield/521279231284609032?theme=clean-inverted" /></a>
+<a href="https://behance.net/aryanranderiya"><img height="29" src="https://brandslogos.com/wp-content/uploads/images/behance-logo-vector.svg" /></a>
+<a href="https://linkedin.com/aryan-randeriya-362a2a278"><img height="29" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" /></a>
 </p>
 
 
