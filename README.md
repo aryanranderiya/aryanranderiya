@@ -6,11 +6,17 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanr78&theme=dark)
 
-<br><h2>Follow Me</h2>
+<br><h2>Connect With Me</h2>
 <p>
 <a href="https://twitter.com/w0lfzzy"><img height="32" width="32" src="https://cdn.simpleicons.org/twitter/#1D9BF0" /></a>
 <a href="https://instagram.com/aryanranderiya"><img height="32" width="32" src="https://cdn.simpleicons.org/instagram/#E4405F" /></a>
 <a href="https://instagram.com/aryanranderiya"><img height="32" src="https://dcbadge.vercel.app/api/shield/521279231284609032?theme=clean-inverted" /></a>
+</p>
+<p align="left">
+<a href="https://twitter.com/w0lfzzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="w0lfzzy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aryan-randeriya-362a2a278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-randeriya-362a2a278" height="30" width="40" /></a>
+<a href="https://instagram.com/aryanranderiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryanranderiya" height="30" width="40" /></a>
+<a href="https://www.behance.net/aryanranderiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="aryanranderiya" height="30" width="40" /></a>
 </p>
 
 <br><h2>Languages / Tools </h2>
