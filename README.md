@@ -48,8 +48,7 @@
 <br>
 
 [![Top Langs](https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanr78&layout=compact&hide=javascript,jinja)
-](https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanr78&layout=pie)   [![Spotify](https://novatorem-novatorem-git-main-aryanr78.vercel.app/api/spotify)](https://open.spotify.com/user/4ytub86gtnmr0ezrg5jten30c)
-
+](https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanr78&layout=pie) 
 
 
 <!--
