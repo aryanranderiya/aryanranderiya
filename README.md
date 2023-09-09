@@ -4,7 +4,7 @@
 
 18 y/o tech enthusiast! <br><br>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanranderiya&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanranderiya&theme=blue_navy)
 
 <br>
 <h2>Connect with me</h2>
@@ -54,7 +54,7 @@
 
 <h3> 🔥 Streak Stats </h3>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=aryanranderiya&theme=github_dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=470&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=aryanranderiya&theme=blue_navy&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=470&hide_border=true)
 
 <h3> 💻 GitHub Profile Stats </h3>
 
