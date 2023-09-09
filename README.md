@@ -52,8 +52,10 @@
 <br>
 <br><h2>Statistics</h2>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats-9e4w.vercel.app/api?username=aryanranderiya&show_icons=true&hide_border=true&theme=dark)]<br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=aryanranderiya&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=470)](https://git.io/streak-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats-9e4w.vercel.app/api?username=aryanranderiya&show_icons=true&hide_border=true&theme=dark)]
+<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=aryanranderiya&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=470)]
+<br>
 [![Top Langs](https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanranderiya&layout=pie&hide=javascript,jinja&theme=dark)]
 
 <br>
