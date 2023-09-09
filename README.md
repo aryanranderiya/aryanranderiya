@@ -8,14 +8,14 @@
 
 <br><h2>Connect with me</h2>
 <p>
-<a href="https://twitter.com/w0lfzzy" >
-          <img style="padding-right:10px; height="35" width="35" src="https://cdn.simpleicons.org/twitter/#1D9BF0" /></a>    
-<a href="https://instagram.com/aryanranderiya">
-          <img style="padding-right:10px; height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />    
-<a href="https://behance.net/aryanranderiya">
-          <img style="padding-right:10px; height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" /></a>    
-<a href="https://linkedin.com/aryan-randeriya-362a2a278">
-          <img style="padding-right:10px; height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>    
+<a href="https://twitter.com/w0lfzzy" style="padding-right:10px;>
+          <img height="35" width="35" src="https://cdn.simpleicons.org/twitter/#1D9BF0" /></a>    
+<a href="https://instagram.com/aryanranderiya" style="padding-right:10px;>
+          <img height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />    
+<a href="https://behance.net/aryanranderiya" style="padding-right:10px;>
+          <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" /></a>    
+<a href="https://linkedin.com/aryan-randeriya-362a2a278" style="padding-right:10px;>
+          <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>    
 <img height="30" src="https://dcbadge.vercel.app/api/shield/521279231284609032?theme=clean-inverted" /></a>    
 </p>
 
