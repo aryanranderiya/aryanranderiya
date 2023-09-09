@@ -48,11 +48,9 @@
 <br>
 <br>
 
-<h2>Stats</h2>
+<h2>Statistics</h2>
 <img alt="Aryan's Trophies" src="https://github-profile-trophy.vercel.app/?username=aryanranderiya&theme=algolia&column=9&no-frame=true" />
 <br>
-
-<h2>Statistics</h2>
 
 <h3> 🔥 Streak Stats </h3>
 
