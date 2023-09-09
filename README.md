@@ -49,8 +49,6 @@
 
 <!-- <img align="left" alt="" width="30px" style="padding-right:10px;" /> -->
 
-<hr>
-          
 <br><h2>Stats</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aryanranderiya&theme=dracula&column=9)](https://github.com/ryo-ma/github-profile-trophy)
