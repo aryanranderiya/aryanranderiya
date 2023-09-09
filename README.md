@@ -58,7 +58,7 @@
 
 <h3> 💻 GitHub Profile Stats </h3>
 
-![Anurag's GitHub stats-Dark](https://github-readme-stats-9e4w.vercel.app/api?username=aryanranderiya&show_icons=true&hide_border=true&theme=github_dark)![Top Langs](https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanranderiya&style=compact&hide=javascript,jinja&theme=github_dark&hide_border=true)
+![Anurag's GitHub stats-Dark](https://github-readme-stats-9e4w.vercel.app/api?username=aryanranderiya&show_icons=true&hide_border=true&theme=blue_navy)![Top Langs](https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanranderiya&style=compact&hide=javascript,jinja&theme=blue_navy&hide_border=true)
 <br>
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aryanranderiya&theme=react-dark)
 <br>
