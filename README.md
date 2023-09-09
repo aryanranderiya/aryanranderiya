@@ -5,8 +5,7 @@
 18 y/o tech enthusiast! 
 
 <img alt="Aryan's Profile Summary!" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanranderiya&theme=transparent" height="300px"/>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="aryanranderiya" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/aryanranderiya?trk=profile-badge">Aryan R.</a></div>
-              
+
 <hr>
 <br>
 <br>
