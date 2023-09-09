@@ -4,7 +4,7 @@
 
 18 y/o tech enthusiast! <br><br>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanranderiya&theme=blue_navy)
+<img alt="Aryan's Profile Summary!" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanranderiya&theme=blue_navy" height="192px"/>
 
 <br>
 <h2>Connect with me</h2>
@@ -38,28 +38,26 @@
 <img align="left" alt="Firebase" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 <img align="left" alt="VSCode" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<!-- <img align="left" alt="" width="30px" style="padding-right:10px;" /> -->
 
 </p>
 </center>
 <br>
-<!-- <img align="left" alt="" width="30px" style="padding-right:10px;" /> -->
 
 <h2>Stats</h2>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=aryanranderiya&theme=blue_navy&column=9)
-
+<img alt="Aryan's Trophies" src="https://github-profile-trophy.vercel.app/?username=aryanranderiya&theme=dracula&column=9" />
 <br>
-<br>
+
 <h2>Statistics</h2>
 
 <h3> 🔥 Streak Stats </h3>
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Aryan's Streak Stats" src="https://streak-stats.demolab.com?user=aryanranderiya&theme=blue_navy&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=470&hide_border=true" height="192px"/></a>
+<br>
 
 <h3> 💻 GitHub Profile Stats </h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aryan's Github Stats" src="https://github-readme-stats-9e4w.vercel.app/api?username=aryanranderiya&show_icons=true&hide_border=true&theme=blue_navy" height="192px"/></a><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aryan's Top Languages" src="https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanranderiya&layout=compact&hide=javascript,jinja&theme=blue_navy&hide_border=true" height="192px"/></a>
-
 <br>
 
 <!--
