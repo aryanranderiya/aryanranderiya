@@ -28,17 +28,6 @@
 <br><h2>Languages / Tools </h2>
 <center>
 <p>
-<!-- <img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
-<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/android/android.png" />
-<img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/python/python.png" />
-<img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" />
-<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/html/html.png" />
-<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/css/css.png" />
-<img height="50" src="https://www.blender.org/wp-content/uploads/2020/07/blender_community_logo_white.png" />
-<img height="50" src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png" />
-<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/ubuntu/ubuntu.png" />
-<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/linux/linux.png" /> -->
-
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Android" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
@@ -61,9 +50,13 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=aryanranderiya&theme=dracula&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
+<br><h2>Statistics</h2>
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats-9e4w.vercel.app/api?username=aryanranderiya&show_icons=true&hide_border=true&theme=dark
-)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)[![GitHub Streak](https://streak-stats.demolab.com?user=aryanranderiya&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=470)](https://git.io/streak-stats)
+)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=aryanranderiya&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=470)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanranderiya&layout=compact&hide=javascript,jinja)
+](https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanranderiya&layout=pie&theme=dark)
 
 <br>
 
@@ -71,8 +64,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanranderiya&layout=compact&hide=javascript,jinja)
-](https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanranderiya&layout=pie&theme=dark)
+
 
 
 <!--
