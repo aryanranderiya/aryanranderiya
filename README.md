@@ -11,8 +11,7 @@
 <p>
   <a href="https://twitter.com/w0lfzzy">
     <svg viewBox="0 0 128 128">
-            <img height="35" width="35" src="https://cdn.simpleicons.org/twitter/#1D9BF0">
-              
+            <img height="35" width="35" src="https://cdn.simpleicons.org/twitter/#1D9BF0">        
   </a>
   <a href="https://instagram.com/aryanranderiya">
     <img  height="35" width="35" style="margin-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
@@ -52,12 +51,15 @@
 <br>
 <br><h2>Statistics</h2>
 
-![Anurag's GitHub stats-Dark](https://github-readme-stats-9e4w.vercel.app/api?username=aryanranderiya&show_icons=true&hide_border=true&theme=github_dark)
-<br>
-![GitHub Streak](https://streak-stats.demolab.com?user=aryanranderiya&theme=github_dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=470&hide_border=true)
-<br>
-![Top Langs](https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanranderiya&layout=pie&hide=javascript,jinja&theme=github_dark&hide_border=true)
+<h3> 🔥 Streak Stats </h3>
 
+![GitHub Streak](https://streak-stats.demolab.com?user=aryanranderiya&theme=github_dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=470&hide_border=true)
+
+<h3> 💻 GitHub Profile Stats </h3>
+
+![Anurag's GitHub stats-Dark](https://github-readme-stats-9e4w.vercel.app/api?username=aryanranderiya&show_icons=true&hide_border=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanranderiya&layout=pie&hide=javascript,jinja&theme=github_dark&hide_border=true)
 <br>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aryanranderiya&theme=react-dark)
