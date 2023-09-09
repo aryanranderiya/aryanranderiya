@@ -10,7 +10,7 @@
 <h2>Connect with me</h2>
 <p>
   <a href="https://twitter.com/w0lfzzy">
-    <img style="margin-right: 10px;" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+    <img style="margin-right: 10px;" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
           
   </a>
   <a href="https://instagram.com/aryanranderiya">
