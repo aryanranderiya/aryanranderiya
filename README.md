@@ -4,7 +4,7 @@
 
 18 y/o tech enthusiast! <br><br>
 
-<img alt="Aryan's Profile Summary!" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanranderiya&theme=blue_navy&no-frame=false" height="192px"/>
+<img alt="Aryan's Profile Summary!" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanranderiya&theme=blue_navy" height="192px"/>
 
 <br>
 <h2>Connect with me</h2>
@@ -45,7 +45,7 @@
 <br>
 
 <h2>Stats</h2>
-<img alt="Aryan's Trophies" src="https://github-profile-trophy.vercel.app/?username=aryanranderiya&theme=dracula&column=9" />
+<img alt="Aryan's Trophies" src="https://github-profile-trophy.vercel.app/?username=aryanranderiya&theme=darkhub&column=9&no-frame=false" />
 <br>
 
 <h2>Statistics</h2>
