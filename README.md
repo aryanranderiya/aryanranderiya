@@ -58,6 +58,8 @@
 
 <h3> 💻 GitHub Profile Stats </h3>
 
+<img alt="Aryan's Github Stats" src="https://github-readme-stats-9e4w.vercel.app/api?username=aryanranderiya&show_icons=true&hide_border=true&theme=blue_navy" height="192px"/>
+
 ![Anurag's GitHub stats-Dark](https://github-readme-stats-9e4w.vercel.app/api?username=aryanranderiya&show_icons=true&hide_border=true&theme=blue_navy)![Top Langs](https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanranderiya&layout=compact&hide=javascript,jinja&theme=blue_navy&hide_border=true)
 <br>
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aryanranderiya&theme=react-dark&hide_border=true)
