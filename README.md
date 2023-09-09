@@ -44,12 +44,13 @@
 <br>
 <!-- <img align="left" alt="" width="30px" style="padding-right:10px;" /> -->
 
-<br><h2>Stats</h2>
+<h2>Stats</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aryanranderiya&theme=dracula&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
-<br><h2>Statistics</h2>
+<br>
+<h2>Statistics</h2>
 
 <h3> 🔥 Streak Stats </h3>
 
@@ -59,20 +60,10 @@
 
 ![Anurag's GitHub stats-Dark](https://github-readme-stats-9e4w.vercel.app/api?username=aryanranderiya&show_icons=true&hide_border=true&theme=github_dark)![Top Langs](https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanranderiya&style=compact&hide=javascript,jinja&theme=github_dark&hide_border=true)
 <br>
-
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aryanranderiya&theme=react-dark)
-
 <br>
 
-
-
-
 <!--
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanr78)](https://github.com/anuraghazra/github-readme-stats)
-
-**aryanr78/aryanr78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
