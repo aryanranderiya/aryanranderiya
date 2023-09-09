@@ -18,11 +18,7 @@
           <img style="padding-right:10px;" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>    
 <img height="30" src="https://dcbadge.vercel.app/api/shield/521279231284609032?theme=clean-inverted" /></a>    
 </p>
-
-
-
-          
-          
+ 
 <br><h2>Languages / Tools </h2>
 <center>
 <p>
@@ -49,11 +45,9 @@
 <img align="left" alt="VSCode" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-
-          
 </p>
 </center>
-
+<br>
 <!-- <img align="left" alt="" width="30px" style="padding-right:10px;" /> -->
 
 <br><h2>Stats</h2>
