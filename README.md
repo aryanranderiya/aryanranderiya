@@ -55,8 +55,8 @@
 [![Anurag's GitHub stats-Dark](https://github-readme-stats-9e4w.vercel.app/api?username=aryanranderiya&show_icons=true&hide_border=true&theme=dark
 )](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)<br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=aryanranderiya&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=470)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanranderiya&hide=javascript,jinja)
-](https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanranderiya&layout=pie&theme=dark)
+[![Top Langs](https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanranderiya&layout=pie&hide=javascript,jinja)
+](https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanranderiya&theme=dark)
 
 <br>
 
