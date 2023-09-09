@@ -58,9 +58,7 @@
 
 <h3> 💻 GitHub Profile Stats </h3>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aryan's Github Stats" src="https://github-readme-stats-9e4w.vercel.app/api?username=aryanranderiya&show_icons=true&hide_border=true&theme=blue_navy" height="192px"/></a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aryan's Top Languages" src="https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanranderiya&layout=compact&hide=javascript,jinja&theme=blue_navy&hide_border=true" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aryan's Github Stats" src="https://github-readme-stats-9e4w.vercel.app/api?username=aryanranderiya&show_icons=true&hide_border=true&theme=blue_navy" height="192px"/></a><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aryan's Top Languages" src="https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanranderiya&layout=compact&hide=javascript,jinja&theme=blue_navy&hide_border=true" height="192px"/></a>
 
 ![Anurag's GitHub stats-Dark](https://github-readme-stats-9e4w.vercel.app/api?username=aryanranderiya&show_icons=true&hide_border=true&theme=blue_navy)![Top Langs](https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanranderiya&layout=compact&hide=javascript,jinja&theme=blue_navy&hide_border=true)
 <br>
