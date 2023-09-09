@@ -4,7 +4,7 @@
 
 18 y/o tech enthusiast! <br><br>
 
-<img alt="Aryan's Profile Summary!" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanranderiya&theme=transparent" height="192px"/>
+<img alt="Aryan's Profile Summary!" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanranderiya&theme=transparent"/>
 
 <br>
 <h2>Connect with me</h2>
