@@ -45,7 +45,6 @@
 </p>
 </center>
 <br>
-<hr>
 <br>
 <h2>Statistics</h2>
 <img alt="Aryan's Trophies" src="https://github-profile-trophy.vercel.app/?username=aryanranderiya&theme=algolia&column=9&no-frame=true" />
