@@ -25,6 +25,7 @@
     <img  height="35" width="35" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
 </p>
+<br>
 
 <br><h2>Languages / Tools </h2>
 <center>
