@@ -42,12 +42,11 @@
 <img align="left" alt="VSCode" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <!-- <img align="left" alt="" width="30px" style="padding-right:10px;" /> -->
-
 </p>
 </center>
 <br>
+<hr>
 <br>
-
 <h2>Statistics</h2>
 <img alt="Aryan's Trophies" src="https://github-profile-trophy.vercel.app/?username=aryanranderiya&theme=algolia&column=9&no-frame=true" />
 <br>
