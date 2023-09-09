@@ -46,7 +46,7 @@
 
 <h2>Stats</h2>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=aryanranderiya&theme=dracula&column=9)
+![trophy](https://github-profile-trophy.vercel.app/?username=aryanranderiya&theme=blue_navy&column=9)
 
 <br>
 <br>
@@ -55,8 +55,6 @@
 <h3> 🔥 Streak Stats </h3>
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Aryan's Streak Stats" src="https://streak-stats.demolab.com?user=aryanranderiya&theme=blue_navy&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=470&hide_border=true" height="192px"/></a>
-
-![GitHub Streak]()
 
 <h3> 💻 GitHub Profile Stats </h3>
 
