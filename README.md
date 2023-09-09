@@ -13,10 +13,9 @@
 <a href="https://instagram.com/aryanranderiya">
           <img style="padding-right:10px;" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />    
 <a href="https://behance.net/aryanranderiya">
-          <img style="padding-right:10px;" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" /></a>    
+          <img height="35" width="35" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" /></a>    
 <a href="https://linkedin.com/aryan-randeriya-362a2a278">
-          <img style="padding-right:10px;" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>    
-<img height="30" src="https://dcbadge.vercel.app/api/shield/521279231284609032?theme=clean-inverted" /></a>    
+          <img height="35" width="35" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>    
 </p>
  
 <br><h2>Languages / Tools </h2>
