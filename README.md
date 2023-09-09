@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/aryan-randeriya-362a2a278">
           <img height="35" width="35" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>    
 </p>
- 
+---
 <br><h2>Languages / Tools </h2>
 <center>
 <p>
