@@ -27,7 +27,7 @@
 </p>
 <br>
 
-<br><h2>Languages / Tools </h2>
+<h2>Languages / Tools </h2>
 <center>
 <p>
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
