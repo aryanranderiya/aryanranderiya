@@ -71,7 +71,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanranderiya&layout=compact&hide=javascript,jinja&layout=pie&theme=github_dark)
+[![Top Langs](https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanranderiya&layout=compact&hide=javascript,jinja&layout=pie&theme=dark)
 ](https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanranderiya)
 
 
