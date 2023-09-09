@@ -6,6 +6,8 @@
 
 <img alt="Aryan's Profile Summary!" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanranderiya&theme=transparent" height="300px"/>
 
+<hr>
+
 <h2>Connect with me</h2>
 <p>
   <a href="https://twitter.com/w0lfzzy">
