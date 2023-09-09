@@ -2,11 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=aryanranderiya&color=00bbff&style=flat)
 
-18 y/o tech enthusiast! <br><br>
+18 y/o tech enthusiast! 
 
 <img alt="Aryan's Profile Summary!" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanranderiya&theme=transparent" height="300px"/>
 
-<br>
 <h2>Connect with me</h2>
 <p>
   <a href="https://twitter.com/w0lfzzy">
