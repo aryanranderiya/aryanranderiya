@@ -19,7 +19,7 @@
   <a href="https://behance.net/aryanranderiya">
     <img  height="35" width="35" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" />
   </a>
-  <a href="https://linkedin.com/aryan-randeriya-362a2a278">
+  <a href="https://linkedin.com/in/aryanranderiya">
     <img  height="35" width="35" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
 </p>
