@@ -3,8 +3,6 @@
 ![](https://komarev.com/ghpvc/?username=aryanranderiya&color=00bbff&style=flat)
 
 <img alt="Aryan's Profile Summary!" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanranderiya&theme=transparent" height="300px"/>
-
-<hr>
 <br>
 <br>
 
@@ -48,15 +46,16 @@
 <br>
 
 ## Statistics
-<img alt="Aryan's Trophies" src="https://github-profile-trophy.vercel.app/?username=aryanranderiya&theme=algolia&column=9&no-frame=true" />
 <br>
+
+<img alt="Aryan's Trophies" src="https://github-profile-trophy.vercel.app/?username=aryanranderiya&theme=algolia&column=9&no-frame=true" />
 
 ### 🔥 Streak Stats 
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Aryan's Streak Stats" src="https://streak-stats.demolab.com?user=aryanranderiya&theme=blue_navy&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=470&hide_border=true" height="192px"/></a>
 <br>
 
-<h3> 💻 GitHub Profile Stats </h3>
+### 💻 GitHub Profile Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aryan's Github Stats" src="https://github-readme-stats-9e4w.vercel.app/api?username=aryanranderiya&show_icons=true&hide_border=true&theme=blue_navy" height="192px"/></a><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aryan's Top Languages" src="https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanranderiya&layout=compact&theme=blue_navy&hide_border=true&exclude_repo=github-readme-stats" height="192px"/></a>
 <br>
