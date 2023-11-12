@@ -1,4 +1,4 @@
-<h1>Hey there! 👋</h1>
+<h1>Hello World! 👋</h1>
 
 ![](https://komarev.com/ghpvc/?username=aryanranderiya&color=00bbff&style=flat)
 
@@ -48,6 +48,7 @@
 <img alt="Aryan's Trophies" src="https://github-profile-trophy.vercel.app/?username=aryanranderiya&theme=algolia&column=9&no-frame=true" />
 <br>
 
+### 3
 <h3> 🔥 Streak Stats </h3>
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Aryan's Streak Stats" src="https://streak-stats.demolab.com?user=aryanranderiya&theme=blue_navy&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=470&hide_border=true" height="192px"/></a>
