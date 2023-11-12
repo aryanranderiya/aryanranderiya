@@ -1,4 +1,4 @@
-<h1>Hello World! 👋</h1>
+#Hello World! 👋
 
 ![](https://komarev.com/ghpvc/?username=aryanranderiya&color=00bbff&style=flat)
 
@@ -7,7 +7,7 @@
 <hr>
 <br>
 <br>
-<h2>Connect with me</h2>
+##Connect with me
 <p>
   <a href="https://twitter.com/w0lfzzy">
     <svg viewBox="0 0 128 128">
@@ -25,7 +25,7 @@
 </p>
 <br>
 
-<h2>Languages / Tools </h2>
+##Languages / Tools
 <center>
 <p>
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -44,12 +44,11 @@
 </center>
 <br>
 <br>
-<h2>Statistics</h2>
+##Statistics
 <img alt="Aryan's Trophies" src="https://github-profile-trophy.vercel.app/?username=aryanranderiya&theme=algolia&column=9&no-frame=true" />
 <br>
 
-### 3
-<h3> 🔥 Streak Stats </h3>
+### 🔥 Streak Stats 
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Aryan's Streak Stats" src="https://streak-stats.demolab.com?user=aryanranderiya&theme=blue_navy&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=470&hide_border=true" height="192px"/></a>
 <br>
