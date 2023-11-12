@@ -1,4 +1,4 @@
-#Hello World! 👋
+# Hello World! 👋
 
 ![](https://komarev.com/ghpvc/?username=aryanranderiya&color=00bbff&style=flat)
 
@@ -7,7 +7,7 @@
 <hr>
 <br>
 <br>
-##Connect with me
+## Connect with me
 <p>
   <a href="https://twitter.com/w0lfzzy">
     <svg viewBox="0 0 128 128">
@@ -25,7 +25,7 @@
 </p>
 <br>
 
-##Languages / Tools
+## Languages / Tools
 <center>
 <p>
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
