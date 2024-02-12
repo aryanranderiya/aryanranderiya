@@ -2,6 +2,8 @@
 My name is Aryan Randeriya and I'm a Software Developer and tech enthusiast passionate about exploring new things. Feel free to connect with me to work on any projects!
 
 ### [Check out my Website! aryanranderiya.com](https://aryanranderiya.com)
+
+### [All Software Projects -> Click Here](https://aryanranderiya.com/SoftwareProjects)
 <br>
 
 ![](https://komarev.com/ghpvc/?username=aryanranderiya&color=00bbff&style=flat)
