@@ -5,6 +5,7 @@ I'm a Software Developer and tech enthusiast passionate about exploring technolo
 
 ### [Check out my Website! 👉 aryanranderiya.com](https://aryanranderiya.com)
 
+      
 ### Projects not on Github:
 - [Ticketbus (Android Application)](https://aryanranderiya.com/Project.html?id=2_project_TicketBus_1705162807451)
 - [Personal Portfolio (Website)](https://aryanranderiya.com/Project.html?id=1_project_My_Portfolio_1705162703820)
@@ -17,9 +18,12 @@ I'm a Software Developer and tech enthusiast passionate about exploring technolo
 ## Connect with me
 
 <p>
+
+  <a href="https://aryanranderiya.com">
+  <img height="35" width="35" src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/c7399a2e-ed5a-4cf0-bc2b-04d4665e981e">        
+  </a>
   <a href="https://twitter.com/w0lfzzy">
-    <svg viewBox="0 0 128 128">
-            <img height="35" width="35" src="https://cdn.simpleicons.org/twitter/#1D9BF0">        
+    <img height="35" width="35" src="https://cdn.simpleicons.org/twitter/#1D9BF0">        
   </a>
   <a href="https://instagram.com/aryanranderiya">
     <img  height="35" width="35" style="margin-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
