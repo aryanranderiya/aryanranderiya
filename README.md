@@ -1,12 +1,16 @@
-# Hello World! 👋
-My name is Aryan Randeriya and I'm a Software Developer and tech enthusiast passionate about exploring new things. Feel free to connect with me to work on any projects!
+# Hello World! &nbsp;<img src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/710e2c34-fb64-46db-8bbf-450c00dabe70" width=40px> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![](https://komarev.com/ghpvc/?username=aryanranderiya&color=00bbff&style=flat)
 
-### [Check out my Website! aryanranderiya.com](https://aryanranderiya.com)
 
-### [All Software Projects -> Click Here](https://aryanranderiya.com/SoftwareProjects)
+I'm a Software Developer and tech enthusiast passionate about exploring technology and learning new things! Feel free to connect with me to work on any projects!
+
+### [Check out my Website! 👉 aryanranderiya.com](https://aryanranderiya.com)
+
+### Projects not on Github:
+- [Ticketbus (Android Application)](https://aryanranderiya.com/Project.html?id=2_project_TicketBus_1705162807451)
+- [Personal Portfolio (Website)](https://aryanranderiya.com/Project.html?id=1_project_My_Portfolio_1705162703820)
+
 <br>
 
-![](https://komarev.com/ghpvc/?username=aryanranderiya&color=00bbff&style=flat)
 
 <img alt="Aryan's Profile Summary!" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanranderiya&theme=transparent" height="300px"/>
 
@@ -35,15 +39,22 @@ My name is Aryan Randeriya and I'm a Software Developer and tech enthusiast pass
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Android" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
+<img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Flask" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
+<img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="MongoDB" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="C" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="left" alt="Photoshop" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <img align="left" alt="Blender" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 <img align="left" alt="Firebase" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+<img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
+<img align="left" alt="Ubuntu" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
+<img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="VSCode" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+          
 <!-- <img align="left" alt="" width="30px" style="padding-right:10px;" /> -->
 
           
