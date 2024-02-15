@@ -1,5 +1,4 @@
-# Hello World! &nbsp;<img src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/710e2c34-fb64-46db-8bbf-450c00dabe70" width=40px> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![](https://komarev.com/ghpvc/?username=aryanranderiya&color=00bbff&style=flat)
-
+# Hello World! &nbsp;<img src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/710e2c34-fb64-46db-8bbf-450c00dabe70" width=40px>
 
 I'm a Software Developer and tech enthusiast passionate about exploring technology and learning new things! Feel free to connect with me to work on any projects!
 
@@ -12,7 +11,7 @@ I'm a Software Developer and tech enthusiast passionate about exploring technolo
 
 <br>
 
-
+![](https://komarev.com/ghpvc/?username=aryanranderiya&color=00bbff&style=flat-square)
 <img alt="Aryan's Profile Summary!" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanranderiya&theme=transparent" height="300px"/>
 
 ## Connect with me
