@@ -9,29 +9,20 @@ I'm a Software Developer and tech enthusiast passionate about exploring technolo
 - [Ticketbus (Android Application)](https://aryanranderiya.com/Project.html?id=2_project_TicketBus_1705162807451)
 - [Personal Portfolio (Website)](https://aryanranderiya.com/Project.html?id=1_project_My_Portfolio_1705162703820)
 
+<br>
+
 ## Connect with me
 
 <p>
 
-  <a href="https://aryanranderiya.com">
-  <img height="35" width="35" src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/c7399a2e-ed5a-4cf0-bc2b-04d4665e981e">        
-  </a>
-  <a href="https://twitter.com/w0lfzzy">
-    <img height="35" width="35" src="https://cdn.simpleicons.org/twitter/#1D9BF0">        
-  </a>
-  <a href="https://instagram.com/aryanranderiya">
-    <img  height="35" width="35" style="margin-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
-  </a>
-  <a href="https://behance.net/aryanranderiya">
-    <img  height="35" width="35" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" />
-  </a>
-  <a href="https://linkedin.com/in/aryanranderiya">
-    <img  height="35" width="35" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-  </a>
-</p>
+<a href="https://aryanranderiya.com"><img height="35" width="35" src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/c7399a2e-ed5a-4cf0-bc2b-04d4665e981e"></a>
+<a href="https://linkedin.com/in/aryanranderiya"><img  height="35" width="35" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a href="https://twitter.com/w0lfzzy"><img height="35" width="35" src="https://cdn.simpleicons.org/twitter/#1D9BF0"></a>
+<a href="https://instagram.com/aryanranderiya"><img  height="35" width="35" style="margin-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" /></a>
+<a href="https://behance.net/aryanranderiya"><img  height="35" width="35" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" /></a>
 
-![](https://komarev.com/ghpvc/?username=aryanranderiya&color=00bbff&style=flat-square)
-<img alt="Aryan's Profile Summary!" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanranderiya&theme=transparent" height="300px"/>
+</p>
+<br>
 
 ## Languages / Tools
 <center>
@@ -150,49 +141,29 @@ I'm a Software Developer and tech enthusiast passionate about exploring technolo
     </td>
   </tr>
 </table>
-
-          
-<!-- <img align="left" alt="" width="30px" style="padding-right:10px;" /> -->
-
           
 </p>
 </center>
 <br>
-<br>
-<br>
 
 ## Statistics
-<br>
 
-<img alt="Aryan's Trophies" src="https://github-profile-trophy.vercel.app/?username=aryanranderiya&theme=algolia&column=9&no-frame=true" />
+![](https://komarev.com/ghpvc/?username=aryanranderiya&color=00bbff&style=flat-square)
+<img alt="Aryan's Profile Summary!" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanranderiya&theme=transparent" height="300px"/>
 
-<br>
 
 ### 🔥 Streak Stats 
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Aryan's Streak Stats" src="https://streak-stats.demolab.com?user=aryanranderiya&theme=blue_navy&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=470&hide_border=true" height="192px"/></a>
-<br>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Aryan's Streak Stats" src="https://streak-stats.demolab.com?user=aryanranderiya&theme=blue_navy&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=470&hide_border=true&bg_color=00000000" height="192px"/></a>
 <br>
 
 ### 💻 GitHub Profile Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aryan's Github Stats" src="https://github-readme-stats-9e4w.vercel.app/api?username=aryanranderiya&show_icons=true&hide_border=true&theme=blue_navy" height="192px"/></a><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aryan's Top Languages" src="https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanranderiya&layout=compact&theme=blue_navy&hide_border=true&exclude_repo=github-readme-stats" height="192px"/></a>
-<be>
+<img alt="Aryan's Github Stats" src="https://github-readme-stats-9e4w.vercel.app/api?username=aryanranderiya&show_icons=true&hide_border=true&theme=blue_navy&bg_color=00000000" height="192px"/><img alt="Aryan's Top Languages" src="https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanranderiya&layout=compact&theme=blue_navy&hide_border=true&exclude_repo=github-readme-stats&bg_color=00000000" height="192px"/></a>
+### 🏆Trophies 
+<img alt="Aryan's Trophies" src="https://github-profile-trophy.vercel.app/?username=aryanranderiya&theme=algolia&column=9&no-frame=true" />
+
+<br>
 
 <figure><embed src="https://wakatime.com/share/@018db0bd-059a-44d0-9ecc-309a3df6b83a/8dfffd53-3d7f-4bd1-9598-261f704df557.svg"></embed></figure>
 <figure><embed src="https://wakatime.com/share/@018db0bd-059a-44d0-9ecc-309a3df6b83a/a81d9e74-e0af-4354-8714-6d578cdeddc0.svg"></embed></figure>
-
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
