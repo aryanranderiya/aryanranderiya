@@ -81,7 +81,11 @@ I'm a Software Developer and tech enthusiast passionate about exploring technolo
 ### 💻 GitHub Profile Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aryan's Github Stats" src="https://github-readme-stats-9e4w.vercel.app/api?username=aryanranderiya&show_icons=true&hide_border=true&theme=blue_navy" height="192px"/></a><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aryan's Top Languages" src="https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanranderiya&layout=compact&theme=blue_navy&hide_border=true&exclude_repo=github-readme-stats" height="192px"/></a>
-<br>
+<be>
+
+<figure><embed src="https://wakatime.com/share/@018db0bd-059a-44d0-9ecc-309a3df6b83a/8dfffd53-3d7f-4bd1-9598-261f704df557.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@018db0bd-059a-44d0-9ecc-309a3df6b83a/a81d9e74-e0af-4354-8714-6d578cdeddc0.svg"></embed></figure>
+
 
 <!--
 
