@@ -2,7 +2,7 @@
 
 I'm a Software Developer and tech enthusiast passionate about exploring technology and learning new things! Feel free to connect with me to work on any projects!
 
-### [Check out my Website! 👉 aryanranderiya.com](https://aryanranderiya.com)
+### [My Website 👉 aryanranderiya.com](https://aryanranderiya.com)
 
       
 ## Projects not on Github:
