@@ -5,14 +5,9 @@ I'm a Software Developer and tech enthusiast passionate about exploring technolo
 ### [Check out my Website! 👉 aryanranderiya.com](https://aryanranderiya.com)
 
       
-### Projects not on Github:
+## Projects not on Github:
 - [Ticketbus (Android Application)](https://aryanranderiya.com/Project.html?id=2_project_TicketBus_1705162807451)
 - [Personal Portfolio (Website)](https://aryanranderiya.com/Project.html?id=1_project_My_Portfolio_1705162703820)
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=aryanranderiya&color=00bbff&style=flat-square)
-<img alt="Aryan's Profile Summary!" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanranderiya&theme=transparent" height="300px"/>
 
 ## Connect with me
 
@@ -34,7 +29,9 @@ I'm a Software Developer and tech enthusiast passionate about exploring technolo
     <img  height="35" width="35" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
 </p>
-<br>
+
+![](https://komarev.com/ghpvc/?username=aryanranderiya&color=00bbff&style=flat-square)
+<img alt="Aryan's Profile Summary!" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanranderiya&theme=transparent" height="300px"/>
 
 ## Languages / Tools
 <center>
