@@ -152,27 +152,16 @@ I'm a Software Developer and tech enthusiast passionate about exploring technolo
 
 <img alt="Aryan's Profile Summary!" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanranderiya&theme=transparent" height="190px"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryanranderiya&theme=transparent&utcOffset=5.3" height="200px">
 
-
-
-### 🔥 Streak Stats 
-
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Aryan's Streak Stats" src="https://streak-stats.demolab.com?user=aryanranderiya&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=470&hide_border=true&background=transparent" height="192px"/></a>
 
-<br>
-
-### 💻 GitHub Stats!
-
-<img alt="Aryan's Github Stats" src="https://github-readme-stats-9e4w.vercel.app/api?username=aryanranderiya&show_icons=true&hide_border=true&theme=blue_navy&bg_color=00000000" height="192px"/><img alt="Aryan's Top Languages" src="https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanranderiya&layout=compact&theme=blue_navy&hide_border=true&exclude_repo=github-readme-stats&bg_color=00000000" height="192px"/></a>
+<img alt="Aryan's Github Stats" src="https://github-readme-stats-9e4w.vercel.app/api?username=aryanranderiya&show_icons=true&hide_border=true&theme=dark&bg_color=00000000" height="192px"/><img alt="Aryan's Top Languages" src="https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanranderiya&layout=compact&theme=dark&hide_border=true&exclude_repo=github-readme-stats&bg_color=00000000" height="192px"/></a>
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=aryanranderiya&bg_color=transparent&line=00BBFF&point=fff&area=true&area_color=00bbff&title_color=fff&color=00bbff)
 
 ![](https://github.com/aryanranderiya/aryanranderiya/raw/output/github-contribution-grid-snake.svg)
 
 ### 🏆Trophies 
-<img alt="Aryan's Trophies" src="https://github-profile-trophy.vercel.app/?username=aryanranderiya&theme=algolia&column=9&no-frame=true" />
-
-
+<img alt="Aryan's Trophies" src="https://github-profile-trophy.vercel.app/?username=aryanranderiya&theme=darkhub&column=9&no-frame=true&no-bg=true" />
 <br>
 
-<figure><embed src="https://wakatime.com/share/@018db0bd-059a-44d0-9ecc-309a3df6b83a/8dfffd53-3d7f-4bd1-9598-261f704df557.svg"></embed></figure>
-<figure><embed src="https://wakatime.com/share/@018db0bd-059a-44d0-9ecc-309a3df6b83a/a81d9e74-e0af-4354-8714-6d578cdeddc0.svg"></embed></figure>
+![](https://green-wall.leoku.dev/share/aryanranderiya?start=2024&size=l&theme=GitHubDark)
