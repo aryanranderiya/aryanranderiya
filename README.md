@@ -149,19 +149,29 @@ I'm a Software Developer and tech enthusiast passionate about exploring technolo
 ## Statistics
 
 ![](https://komarev.com/ghpvc/?username=aryanranderiya&color=00bbff&style=flat-square)
-<img alt="Aryan's Profile Summary!" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanranderiya&theme=transparent" height="300px"/>
+
+<img alt="Aryan's Profile Summary!" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanranderiya&theme=transparent" height="190px"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryanranderiya&theme=transparent&utcOffset=5.3" height="200px">
+
 
 
 ### 🔥 Streak Stats 
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Aryan's Streak Stats" src="https://streak-stats.demolab.com?user=aryanranderiya&theme=blue_navy&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=470&hide_border=true&bg_color=00000000" height="192px"/></a>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Aryan's Streak Stats" src="https://streak-stats.demolab.com?user=aryanranderiya&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=470&hide_border=true&background=transparent" height="192px"/></a>
+
+![](https://ghchart.rshah.org/00bbff/aryanranderiya)
 <br>
 
-### 💻 GitHub Profile Stats
+### 💻 GitHub Stats!
 
 <img alt="Aryan's Github Stats" src="https://github-readme-stats-9e4w.vercel.app/api?username=aryanranderiya&show_icons=true&hide_border=true&theme=blue_navy&bg_color=00000000" height="192px"/><img alt="Aryan's Top Languages" src="https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanranderiya&layout=compact&theme=blue_navy&hide_border=true&exclude_repo=github-readme-stats&bg_color=00000000" height="192px"/></a>
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=aryanranderiya&bg_color=transparent&line=00BBFF&point=fff&area=true&area_color=00bbff&title_color=fff&color=00bbff)
+
+![](https://github.com/aryanranderiya/aryanranderiya/raw/output/github-contribution-grid-snake.svg)
+
 ### 🏆Trophies 
 <img alt="Aryan's Trophies" src="https://github-profile-trophy.vercel.app/?username=aryanranderiya&theme=algolia&column=9&no-frame=true" />
+
 
 <br>
 
