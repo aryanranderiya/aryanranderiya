@@ -158,7 +158,6 @@ I'm a Software Developer and tech enthusiast passionate about exploring technolo
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Aryan's Streak Stats" src="https://streak-stats.demolab.com?user=aryanranderiya&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=470&hide_border=true&background=transparent" height="192px"/></a>
 
-![](https://ghchart.rshah.org/00bbff/aryanranderiya)
 <br>
 
 ### 💻 GitHub Stats!
