@@ -1,4 +1,5 @@
-![New Project](https://github.com/aryanranderiya/aryanranderiya/assets/64796509/b9870f36-571b-4062-b036-b0bee59e457f)
+<!-- ![New Project](https://github.com/aryanranderiya/aryanranderiya/assets/64796509/b9870f36-571b-4062-b036-b0bee59e457f) -->
+![New Project (1)](https://github.com/aryanranderiya/aryanranderiya/assets/64796509/91f50587-e41b-4afa-88c6-fba6e62919ce)
 
 # Hello World! &nbsp;<img src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/710e2c34-fb64-46db-8bbf-450c00dabe70" width=40px>
 
