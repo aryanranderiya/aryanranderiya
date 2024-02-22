@@ -15,11 +15,11 @@ I'm a Software Developer and tech enthusiast passionate about exploring technolo
 
 <p>
 
-<a href="https://aryanranderiya.com"><img height="35" width="35" src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/c7399a2e-ed5a-4cf0-bc2b-04d4665e981e"></a>
-<a href="https://linkedin.com/in/aryanranderiya"><img  height="35" width="35" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-<a href="https://twitter.com/w0lfzzy"><img height="35" width="35" src="https://cdn.simpleicons.org/twitter/#1D9BF0"></a>
-<a href="https://instagram.com/aryanranderiya"><img  height="35" width="35" style="margin-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" /></a>
-<a href="https://behance.net/aryanranderiya"><img  height="35" width="35" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" /></a>
+<a href="https://aryanranderiya.com"><img height="50px" width="50px" src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/c7399a2e-ed5a-4cf0-bc2b-04d4665e981e"></a>
+<a href="https://linkedin.com/in/aryanranderiya"><img  height="50px" width="50px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a href="https://twitter.com/w0lfzzy"><img height="50px" width="50px" src="https://cdn.simpleicons.org/twitter/#1D9BF0"></a>
+<a href="https://instagram.com/aryanranderiya"><img  height="50px" width="50px" style="margin-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" /></a>
+<a href="https://behance.net/aryanranderiya"><img  height="50px" width="50px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" /></a>
 
 </p>
 <br>
