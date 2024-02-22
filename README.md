@@ -1,3 +1,5 @@
+![New Project](https://github.com/aryanranderiya/aryanranderiya/assets/64796509/b9870f36-571b-4062-b036-b0bee59e457f)
+
 # Hello World! &nbsp;<img src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/710e2c34-fb64-46db-8bbf-450c00dabe70" width=40px>
 
 I'm a Software Developer and tech enthusiast passionate about exploring technology and learning new things! Feel free to connect with me to work on any projects!
