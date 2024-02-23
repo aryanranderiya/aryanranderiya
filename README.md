@@ -1,33 +1,36 @@
-<!-- ![New Project](https://github.com/aryanranderiya/aryanranderiya/assets/64796509/b9870f36-571b-4062-b036-b0bee59e457f) -->
-![New Project (1)](https://github.com/aryanranderiya/aryanranderiya/assets/64796509/91f50587-e41b-4afa-88c6-fba6e62919ce)
+![](https://github.com/aryanranderiya/aryanranderiya/assets/64796509/91f50587-e41b-4afa-88c6-fba6e62919ce)
+<br>
 
-# Hello World! &nbsp;<img src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/710e2c34-fb64-46db-8bbf-450c00dabe70" width=40px>
+# Hello World! &nbsp;<img src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/710e2c34-fb64-46db-8bbf-450c00dabe70" width=40px>  <img src="https://komarev.com/ghpvc/?username=aryanranderiya&color=00bbff&style=flat-square&abbreviated=true" align="right" height="30px">
 
-I'm a Software Developer and tech enthusiast passionate about exploring technology and learning new things! Feel free to connect with me to work on any projects!
+I'm a Software Developer and tech enthusiast passionate about exploring technology and learning new things! <br>
+Feel free to connect with me to work on any projects!
+<br>
 
-### [My Website 👉 aryanranderiya.com](https://aryanranderiya.com)
+### My Portfolio 👉 [aryanranderiya.com](https://aryanranderiya.com)
+##
 
-      
-## Projects not on Github:
+## 👨‍💻 Projects not on Github:
 - [Ticketbus (Android Application)](https://aryanranderiya.com/Project.html?id=2_project_TicketBus_1705162807451)
 - [Personal Portfolio (Website)](https://aryanranderiya.com/Project.html?id=1_project_My_Portfolio_1705162703820)
 
 <br>
 
-## Connect with me
+## 📥 Connect with me
 
 <p>
 
-<a href="https://aryanranderiya.com"><img height="50px" width="50px" src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/c7399a2e-ed5a-4cf0-bc2b-04d4665e981e"></a>
-<a href="https://linkedin.com/in/aryanranderiya"><img  height="50px" width="50px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-<a href="https://twitter.com/w0lfzzy"><img height="50px" width="50px" src="https://cdn.simpleicons.org/twitter/#1D9BF0"></a>
-<a href="https://instagram.com/aryanranderiya"><img  height="50px" width="50px" style="margin-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" /></a>
-<a href="https://behance.net/aryanranderiya"><img  height="50px" width="50px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" /></a>
-
+<a href="https://aryanranderiya.com"><img height="50px" width="50px" src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/c7399a2e-ed5a-4cf0-bc2b-04d4665e981e"></a>&emsp;
+<a href="https://linkedin.com/in/aryanranderiya"><img  height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>&emsp;
+<a href="https://twitter.com/aryanranderiya"><img height="50px" width="50px" src="https://cdn.simpleicons.org/twitter/#1D9BF0"></a>&emsp;
+<a href="https://instagram.com/aryanranderiya"><img  height="50px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" /></a>&emsp;
+<a href="https://behance.net/aryanranderiya"><img  height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" /></a>&emsp;
+<a href="https://stackoverflow.com/users/21615084/aryan"><img  height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" /></a>&emsp;
+          
 </p>
 <br>
 
-## Languages / Tools
+## 🛠️ Languages / Tools
 <center>
 <p>
 <table>
@@ -149,22 +152,26 @@ I'm a Software Developer and tech enthusiast passionate about exploring technolo
 </center>
 <br>
 
-## Statistics
-
-![](https://komarev.com/ghpvc/?username=aryanranderiya&color=00bbff&style=flat-square)
+## 📈 Statistics
 
 <img alt="Aryan's Profile Summary!" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanranderiya&theme=transparent" height="190px"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryanranderiya&theme=transparent&utcOffset=5.3" height="200px">
 
+##
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Aryan's Streak Stats" src="https://streak-stats.demolab.com?user=aryanranderiya&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=470&hide_border=true&background=transparent" height="192px"/></a>
 
+##
 <img alt="Aryan's Github Stats" src="https://github-readme-stats-9e4w.vercel.app/api?username=aryanranderiya&show_icons=true&hide_border=true&theme=dark&bg_color=00000000" height="192px"/><img alt="Aryan's Top Languages" src="https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanranderiya&layout=compact&theme=dark&hide_border=true&exclude_repo=github-readme-stats&bg_color=00000000" height="192px"/></a>
+
+<br>
+
+## 🏆 Trophies
+
+<img alt="Aryan's Trophies" src="https://github-profile-trophy.vercel.app/?username=aryanranderiya&theme=darkhub&column=9&no-frame=true&no-bg=true" />
+
+<br>
+
+## 🤝 Contributions
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=aryanranderiya&bg_color=transparent&line=00BBFF&point=fff&area=true&area_color=00bbff&title_color=fff&color=00bbff)
 
-![](https://github.com/aryanranderiya/aryanranderiya/raw/output/github-contribution-grid-snake.svg)
-
-### 🏆Trophies 
-<img alt="Aryan's Trophies" src="https://github-profile-trophy.vercel.app/?username=aryanranderiya&theme=darkhub&column=9&no-frame=true&no-bg=true" />
-<br>
-
-![](https://green-wall.leoku.dev/share/aryanranderiya?start=2024&size=l&theme=GitHubDark)
+![](https://green-wall.leoku.dev/api/og/share/aryanranderiya?theme=GitHubDark)
