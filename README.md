@@ -178,4 +178,4 @@ Feel free to connect with me to work on any projects!
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=aryanranderiya&bg_color=transparent&line=00BBFF&point=fff&area=true&area_color=00bbff&title_color=fff&color=00bbff)
 
-![](https://green-wall.leoku.dev/api/og/share/aryanranderiya?theme=GitHubDark)
+<a href="https://green-wall.leoku.dev/api/og/share/aryanranderiya"><img src="https://green-wall.leoku.dev/api/og/share/aryanranderiya"/></a>
