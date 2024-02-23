@@ -16,18 +16,18 @@ Feel free to connect with me to work on any projects!
 
 <br>
 
-## 📥 Connect with me
+## 📥 Connect with me!
 
 <p>
 
-<a href="https://aryanranderiya.com"><img height="50px" width="50px" src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/c7399a2e-ed5a-4cf0-bc2b-04d4665e981e"></a>&emsp;
-<a href="https://linkedin.com/in/aryanranderiya"><img  height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>&emsp;
-<a href="https://twitter.com/aryanranderiya"><img height="50px" width="50px" src="https://cdn.simpleicons.org/twitter/#1D9BF0"></a>&emsp;
-<a href="https://discord.gg/85kCGDKK"><img height="45px" src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/7bf05e13-a931-4b20-bf13-4f4b8c2426ad" /></a>&emsp;
-<a href="https://instagram.com/aryanranderiya"><img  height="50px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" /></a>&emsp;
-<a href="https://behance.net/aryanranderiya"><img  height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" /></a>&emsp;
-<a href="https://stackoverflow.com/users/21615084/aryan"><img  height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" /></a>&emsp;
-<a href="https://discord.gg/85kCGDKK"> <img src="https://discord-readme-badge.vercel.app/api?id=521279231284609032" width=25% align="right"> </a>
+<a href="https://aryanranderiya.com"><img height="45px" width="45px" src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/c7399a2e-ed5a-4cf0-bc2b-04d4665e981e"></a>&ensp;
+<a href="https://linkedin.com/in/aryanranderiya"><img  height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>&ensp;
+<a href="https://twitter.com/aryanranderiya"><img height="45px" width="45px" src="https://cdn.simpleicons.org/twitter/#1D9BF0"></a>&ensp;
+<a href="https://discord.gg/85kCGDKK"><img height="38px" src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/7bf05e13-a931-4b20-bf13-4f4b8c2426ad" /></a>&ensp;
+<a href="https://instagram.com/aryanranderiya"><img  height="45px" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" /></a>&ensp;
+<a href="https://behance.net/aryanranderiya"><img  height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" /></a>&ensp;
+<a href="https://stackoverflow.com/users/21615084/aryan"><img  height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" /></a>&ensp;
+<a href="https://discord.gg/85kCGDKK"> <img src="https://discord-readme-badge.vercel.app/api?id=521279231284609032" width=30% align="right"> </a>
 
 </p>
 <br>
