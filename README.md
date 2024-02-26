@@ -12,14 +12,13 @@ Feel free to connect with me to work on any projects!
 
 ## 👨‍💻 Projects not on Github:
 - [Ticketbus (Android Application)](https://aryanranderiya.com/Project.html?id=2_project_TicketBus_1705162807451)
-- [Personal Portfolio (Website)](https://aryanranderiya.com/Project.html?id=1_project_My_Portfolio_1705162703820)
+- [Portfolio (Website)](https://aryanranderiya.com/Project.html?id=1_project_My_Portfolio_1705162703820)
 
 <br>
 
 ## 📥 Connect with me!
 
 <p>
-
 <a href="https://aryanranderiya.com"><img height="45px" width="45px" src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/c7399a2e-ed5a-4cf0-bc2b-04d4665e981e"></a>&ensp;
 <a href="https://linkedin.com/in/aryanranderiya"><img  height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>&ensp;
 <a href="https://twitter.com/aryanranderiya"><img height="45px" width="45px" src="https://cdn.simpleicons.org/twitter/#1D9BF0"></a>&ensp;
@@ -29,7 +28,10 @@ Feel free to connect with me to work on any projects!
 <a href="https://stackoverflow.com/users/21615084/aryan"><img  height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" /></a>&ensp;
 <a href="https://discord.gg/85kCGDKK"> <img src="https://discord-readme-badge.vercel.app/api?id=521279231284609032" width=30% align="right"> </a>
 
+#### aryan.k.randeriya@gmail.com
+
 </p>
+
 <br>
 <br>
 <br>
