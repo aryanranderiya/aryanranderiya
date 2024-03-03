@@ -8,6 +8,9 @@ Feel free to connect with me to work on any projects!
 <br>
 
 ### My Portfolio 👉 [aryanranderiya.com](https://aryanranderiya.com)
+
+### <a href="https://www.buymeacoffee.com/aryanranderiya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;" ></a>
+
 ##
 
 ## 👨‍💻 Projects not on Github:
