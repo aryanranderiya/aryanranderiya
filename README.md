@@ -3,7 +3,7 @@
 
 # Hello World! &nbsp;<img src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/710e2c34-fb64-46db-8bbf-450c00dabe70" width=40px>  <img src="https://komarev.com/ghpvc/?username=aryanranderiya&color=00bbff&style=flat-square&abbreviated=true" align="right" height="30px">
 
-I'm a Software Developer and tech enthusiast passionate about exploring technology and learning new things! <br>
+I'm Aryan, a Software Developer, Graphic Designer and Tech enthusiast passionate about computers, technology and learning new things! <br>
 Feel free to connect with me to work on any projects!
 <br>
 
