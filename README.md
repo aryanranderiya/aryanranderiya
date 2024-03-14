@@ -88,7 +88,28 @@ Feel free to connect with me to work on any projects!
       </a>
       <br>MongoDB
     </td>
+        <td align="center" width="96">
+      <a href="#react">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50px" height="50px" alt="Reactjs" />
+      </a>
+      <br>React.js
+    </td>
     <td align="center" width="96">
+      <a href="#express">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50px" height="50px" alt="Expressjs" />
+      </a>
+      <br>Express.js
+    </td>
+  <td align="center" width="96">
+      <a href="#node">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" height="50px" alt="Nodejs" />
+      </a>
+      <br>Node.js
+    </td>
+  
+</tr>
+    <tr>
+        <td align="center" width="96">
       <a href="#html">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50px" height="50px" alt="HTML" />
       </a>
@@ -99,20 +120,6 @@ Feel free to connect with me to work on any projects!
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50px" height="50px" alt="CSS" />
       </a>
       <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a href="#php">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50px" height="50px" alt="PHP" />
-      </a>
-      <br>PHP
-    </td>
-</tr>
-      <tr>
-    <td align="center" width="96">
-      <a href="#c">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50px" height="50px" alt="C" />
-      </a>
-      <br>C
     </td>
     <td align="center" width="96">
       <a href="#photoshop">
@@ -156,7 +163,7 @@ Feel free to connect with me to work on any projects!
       </a>
       <br>VSCode
     </td>
-  </tr>
+</tr>
 </table>
           
 </p>
