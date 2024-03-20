@@ -30,7 +30,7 @@ Feel free to connect with me to work on any projects!
 <a href="https://instagram.com/aryanranderiya"><img  height="45px" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" /></a>&ensp;
 <a href="https://behance.net/aryanranderiya"><img  height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" /></a>&ensp;
 <a href="https://stackoverflow.com/users/21615084/aryan"><img  height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" /></a>&ensp;
-<a href="https://discord.gg/85kCGDKK"> <img src="https://discord-readme-badge.vercel.app/api?id=521279231284609032" width=30% align="right"> </a>
+<a href="https://discord.com/users/521279231284609032"> <img src="https://discord-readme-badge.vercel.app/api?id=521279231284609032" width=30% align="right"> </a>
 
 #### aryan.k.randeriya@gmail.com
 
