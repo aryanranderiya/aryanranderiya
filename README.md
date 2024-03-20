@@ -17,7 +17,6 @@ Feel free to connect with me to work on any projects!
 - [Ticketbus (Android Application)](https://aryanranderiya.com/Project.html?id=2_project_TicketBus_1705162807451)
 - [Portfolio (Website)](https://aryanranderiya.com/Project.html?id=1_project_My_Portfolio_1705162703820)
 - YouTube Shorts Generator (Work in Progress)
-- Short URL Generator (Work in Progress)
 
 <br>
 
