@@ -9,15 +9,6 @@ Feel free to connect with me to work on any projects!
 
 ### My Portfolio 👉 [aryanranderiya.com](https://aryanranderiya.com)
 
-### <a href="https://www.buymeacoffee.com/aryanranderiya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;" ></a>
-
-##
-
-## 👨‍💻 Projects not on Github:
-- [Ticketbus (Android Application)](https://aryanranderiya.com/Project.html?id=2_project_TicketBus_1705162807451)
-- [Portfolio (Website)](https://aryanranderiya.com/Project.html?id=1_project_My_Portfolio_1705162703820)
-- YouTube Shorts Generator (Work in Progress)
-
 <br>
 
 ## 📥 Connect with me!
@@ -32,12 +23,8 @@ Feel free to connect with me to work on any projects!
 <a href="https://stackoverflow.com/users/21615084/aryan"><img  height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" /></a>&ensp;
 <a href="https://discord.com/users/521279231284609032"> <img src="https://discord-readme-badge.vercel.app/api?id=521279231284609032" width=30% align="right"> </a>
 
-#### aryan.k.randeriya@gmail.com
-
 </p>
 
-<br>
-<br>
 <br>
 
 ## 🛠️ Languages / Tools
@@ -169,32 +156,38 @@ Feel free to connect with me to work on any projects!
       <br>JetBrains
     </td>
 </tr>
-</table>
-          
+</table>   
 </p>
 </center>
-<br>
 
-## 📈 Statistics
+##
 
+<details>
+<summary>
+<h2> 📈 Statistics </h2>
+</summary>
 <img alt="Aryan's Profile Summary!" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanranderiya&theme=transparent" height="190px"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryanranderiya&theme=transparent&utcOffset=5.3" height="200px">
-
 ##
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Aryan's Streak Stats" src="https://streak-stats.demolab.com?user=aryanranderiya&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=470&hide_border=true&background=transparent" height="192px"/></a>
-
 ##
 <img alt="Aryan's Github Stats" src="https://github-readme-stats-9e4w.vercel.app/api?username=aryanranderiya&show_icons=true&hide_border=true&theme=dark&bg_color=00000000" height="192px"/><img alt="Aryan's Top Languages" src="https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanranderiya&layout=compact&theme=dark&hide_border=true&exclude_repo=github-readme-stats&bg_color=00000000" height="192px"/></a>
+</details>
 
-<br>
-
-## 🏆 Trophies
-
+<details>
+<summary>
+<h2> 🏆 Trophies </h2>
+</summary>
 <img alt="Aryan's Trophies" src="https://github-profile-trophy.vercel.app/?username=aryanranderiya&theme=darkhub&column=9&no-frame=true&no-bg=true" />
+</details>
 
-<br>
 
-## 🤝 Contributions
-
+<details>
+<summary>
+<h2> 🤝 Contributions </h2>
+</summary>
+  
 ![](https://github-readme-activity-graph.vercel.app/graph?username=aryanranderiya&bg_color=transparent&line=00BBFF&point=fff&area=true&area_color=00bbff&title_color=fff&color=00bbff)
-
 <a href="https://green-wall.leoku.dev/api/og/share/aryanranderiya"><img src="https://green-wall.leoku.dev/api/og/share/aryanranderiya"/></a>
+</details>
+
+### <a href="https://www.buymeacoffee.com/aryanranderiya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px" ></a>
