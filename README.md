@@ -162,6 +162,12 @@ Feel free to connect with me to work on any projects!
       </a>
       <br>VSCode
     </td>
+    <td align="center" width="96">
+      <a href="#vscode">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="50px" height="50px" alt="JetBrains" />
+      </a>
+      <br>JetBrains
+    </td>
 </tr>
 </table>
           
