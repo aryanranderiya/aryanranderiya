@@ -162,18 +162,20 @@ Feel free to connect with me to work on any projects!
 
 ##
 
-<details>
+<details open>
 <summary>
 <h2> 📈 Statistics </h2>
 </summary>
 <img alt="Aryan's Profile Summary!" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanranderiya&theme=transparent" height="190px"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryanranderiya&theme=transparent&utcOffset=5.3" height="200px">
+  
 ##
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Aryan's Streak Stats" src="https://streak-stats.demolab.com?user=aryanranderiya&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=470&hide_border=true&background=transparent" height="192px"/></a>
+
 ##
 <img alt="Aryan's Github Stats" src="https://github-readme-stats-9e4w.vercel.app/api?username=aryanranderiya&show_icons=true&hide_border=true&theme=dark&bg_color=00000000" height="192px"/><img alt="Aryan's Top Languages" src="https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanranderiya&layout=compact&theme=dark&hide_border=true&exclude_repo=github-readme-stats&bg_color=00000000" height="192px"/></a>
 </details>
 
-<details>
+<details open>
 <summary>
 <h2> 🏆 Trophies </h2>
 </summary>
@@ -181,7 +183,7 @@ Feel free to connect with me to work on any projects!
 </details>
 
 
-<details>
+<details open>
 <summary>
 <h2> 🤝 Contributions </h2>
 </summary>
