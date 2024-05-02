@@ -9,6 +9,14 @@ Feel free to connect with me to work on any projects!
 
 ### My Portfolio 👉 [aryanranderiya.com](https://aryanranderiya.com)
 
+<!--
+## 🔭 I’m currently working on
+
+## 🌱 I’m currently learning
+
+## 👯 I’m looking to collaborate on
+-->
+
 <br>
 
 ## 📥 Connect with me!
@@ -34,8 +42,7 @@ Feel free to connect with me to work on any projects!
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,androidstudio,html,css,js,flask,mysql,mongodb,react,express,nodejs,supabase,firebase,git,vercel,ubuntu,linux,vscode,idea,pycharm&theme=dark)](https://skillicons.dev)
 
-##
-
+ 
 <details open>
 <summary>
 <h2> 📈 Statistics </h2>
