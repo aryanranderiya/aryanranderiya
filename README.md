@@ -24,7 +24,7 @@ Feel free to connect with me to work on any projects!
 <p>
 <a href="https://aryanranderiya.com"><img height="45px" width="45px" src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/c7399a2e-ed5a-4cf0-bc2b-04d4665e981e"></a>&ensp;
 <a href="https://linkedin.com/in/aryanranderiya"><img  height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>&ensp;
-<a href="https://twitter.com/aryanranderiya"><img height="45px" width="45px" src="https://cdn.simpleicons.org/twitter/#1D9BF0"></a>&ensp;
+<a href="https://twitter.com/aryanranderiya"><img height="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png"></a>&ensp;
 <a href="https://discord.com/users/521279231284609032"><img height="38px" src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/7bf05e13-a931-4b20-bf13-4f4b8c2426ad" /></a>&ensp;
 <a href="https://instagram.com/aryanranderiya"><img  height="45px" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" /></a>&ensp;
 <a href="https://behance.net/aryanranderiya"><img  height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" /></a>&ensp;
