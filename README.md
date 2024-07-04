@@ -40,7 +40,7 @@ Feel free to connect with me to work on any projects!
 
 ## 🛠️ Languages / Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,androidstudio,html,css,js,flask,mysql,mongodb,react,express,nodejs,tailwind,supabase,firebase,git,vercel,ubuntu,linux,vscode,idea,pycharm&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,androidstudio,js,flask,fastapi,mysql,mongodb,react,express,nodejs,tailwind,supabase,firebase,git,html,css,vercel,ubuntu,linux,vscode,idea,pycharm&theme=dark)](https://skillicons.dev)
 
  
 <details open>
