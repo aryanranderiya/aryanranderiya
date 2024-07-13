@@ -19,7 +19,7 @@ Feel free to connect with me to work on any projects!
 
 <br>
 
-## 📥 Connect with me!
+## 📥 Socials
 
 <p>
 <a href="https://aryanranderiya.com"><img height="40px" width="40px" src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/c7399a2e-ed5a-4cf0-bc2b-04d4665e981e"></a>&ensp;
@@ -29,10 +29,11 @@ Feel free to connect with me to work on any projects!
 <a href="https://instagram.com/aryanranderiya"><img height="40px" src="https://github.com/user-attachments/assets/b94a7c08-fa2a-4ef5-a1ab-3c092ab8726c" /></a>&ensp;
 <a href="https://behance.net/aryanranderiya"><img  height="40px" width="40px" src="https://github.com/user-attachments/assets/e555219a-6fba-4ecc-9d59-dcff7b44f770" /></a>&ensp;
 <a href="https://stackoverflow.com/users/21615084/aryan"><img  height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" /></a>&ensp;
+<a href="https://monkeytype.com/profile/aryanranderiya"><img height="55px" src="https://github.com/user-attachments/assets/2ad8f48b-7d28-44d2-abc6-2814248883fb" /></a>&ensp;
 
 <br>
 <br>
-<a href="https://discord.com/users/521279231284609032"> <img src="https://lanyard.cnrad.dev/api/521279231284609032" width=30% > </a>
+<a href="https://discord.com/users/521279231284609032"> <img src="https://lanyard.cnrad.dev/api/521279231284609032" width=20% > </a>
 
 </p>
 
@@ -43,23 +44,21 @@ Feel free to connect with me to work on any projects!
 [![My Skills](https://skillicons.dev/icons?i=python,java,androidstudio,js,flask,fastapi,mysql,mongodb,react,express,nodejs,tailwind,supabase,firebase,git,html,css,vercel,ubuntu,linux,vscode,idea,pycharm&theme=dark)](https://skillicons.dev)
 
  
-<details open>
+<details>
 <summary>
 <h2> 📈 Statistics </h2>
 </summary>
 <img alt="Aryan's Profile Summary!" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanranderiya&theme=transparent" height="190px"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryanranderiya&theme=transparent&utcOffset=5.3" height="200px">
- 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Aryan's Streak Stats" src="https://streak-stats.demolab.com?user=aryanranderiya&theme=highcontrast&date_format=j%20M%5B%20Y%5D&card_width=470&background=transparent" height="150px"/></a><img alt="Aryan's Github Stats" src="https://github-readme-stats-9e4w.vercel.app/api?username=aryanranderiya&show_icons=true&theme=dark&bg_color=00000000" height="150px"/><img alt="Aryan's Top Languages" src="https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanranderiya&layout=compact&theme=dark&exclude_repo=github-readme-stats&bg_color=00000000" height="150px"/></a>
-</details>
+ </details>
 
-## 
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Aryan's Streak Stats" src="https://streak-stats.demolab.com?user=aryanranderiya&theme=highcontrast&date_format=j%20M%5B%20Y%5D&card_width=470&background=transparent" height="150px"/></a><img alt="Aryan's Github Stats" src="https://github-readme-stats-9e4w.vercel.app/api?username=aryanranderiya&show_icons=true&theme=dark&bg_color=00000000" height="150px"/><img alt="Aryan's Top Languages" src="https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanranderiya&layout=compact&theme=dark&exclude_repo=github-readme-stats&bg_color=00000000" height="150px"/></a>
+
 <details>
 <summary>
 <h2> 🏆 Trophies </h2>
 </summary>
 <img alt="Aryan's Trophies" src="https://github-profile-trophy.vercel.app/?username=aryanranderiya&theme=darkhub&column=9&no-frame=true&no-bg=true" />
 </details>
-
 
 <details>
 <summary>
