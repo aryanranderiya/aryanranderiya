@@ -3,11 +3,11 @@
 
 # Hello World! &nbsp;<img src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/710e2c34-fb64-46db-8bbf-450c00dabe70" width=40px>  <img src="https://komarev.com/ghpvc/?username=aryanranderiya&color=00bbff&style=flat-square&abbreviated=true" align="right" height="30px">
 
-I'm Aryan, a Software Developer, Graphic Designer and Tech enthusiast passionate about computers, technology and learning new things! <br>
+I'm a Software Developer, Graphic Designer and tech enthusiast passionate about computers, technology and learning new things! <br>
 Feel free to connect with me to work on any projects!
 <br>
 
-### My Portfolio 👉 [aryanranderiya.com](https://aryanranderiya.com)
+#### My Portfolio 👉 [aryanranderiya.com](https://aryanranderiya.com)
 
 <!--
 ## 🔭 I’m currently working on
@@ -22,13 +22,13 @@ Feel free to connect with me to work on any projects!
 ## 📥 Connect with me!
 
 <p>
-<a href="https://aryanranderiya.com"><img height="45px" width="45px" src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/c7399a2e-ed5a-4cf0-bc2b-04d4665e981e"></a>&ensp;
-<a href="https://linkedin.com/in/aryanranderiya"><img  height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>&ensp;
-<a href="https://twitter.com/aryanranderiya"><img height="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png"></a>&ensp;
-<a href="https://discord.com/users/521279231284609032"><img height="38px" src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/7bf05e13-a931-4b20-bf13-4f4b8c2426ad" /></a>&ensp;
-<a href="https://instagram.com/aryanranderiya"><img  height="45px" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" /></a>&ensp;
-<a href="https://behance.net/aryanranderiya"><img  height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" /></a>&ensp;
-<a href="https://stackoverflow.com/users/21615084/aryan"><img  height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" /></a>&ensp;
+<a href="https://aryanranderiya.com"><img height="40px" width="40px" src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/c7399a2e-ed5a-4cf0-bc2b-04d4665e981e"></a>&ensp;
+<a href="https://linkedin.com/in/aryanranderiya"><img  height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>&ensp;
+<a href="https://twitter.com/aryanranderiya"><img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png"></a>&ensp;
+<a href="https://discord.com/users/521279231284609032"><img height="40px" src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/7bf05e13-a931-4b20-bf13-4f4b8c2426ad" /></a>&ensp;
+<a href="https://instagram.com/aryanranderiya"><img height="40px" src="https://github.com/user-attachments/assets/b94a7c08-fa2a-4ef5-a1ab-3c092ab8726c" /></a>&ensp;
+<a href="https://behance.net/aryanranderiya"><img  height="40px" width="40px" src="https://github.com/user-attachments/assets/e555219a-6fba-4ecc-9d59-dcff7b44f770" /></a>&ensp;
+<a href="https://stackoverflow.com/users/21615084/aryan"><img  height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" /></a>&ensp;
 
 <br>
 <br>
@@ -53,7 +53,7 @@ Feel free to connect with me to work on any projects!
 </details>
 
 ## 
-<details open>
+<details>
 <summary>
 <h2> 🏆 Trophies </h2>
 </summary>
