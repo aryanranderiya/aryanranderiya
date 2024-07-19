@@ -54,14 +54,6 @@ Python Scripts / Apps
 - [SpotifyTools](https://aryanranderiya.com/Project?id=2_project_Spotify_Tools_1712173676155)
 - [Simple YouTube Download](https://github.com/aryanranderiya/SimpleYouTubeDownloader)
  </details>
- 
-<!--
-## 🔭 I’m currently working on
-
-## 🌱 I’m currently learning
-
-## 👯 I’m looking to collaborate on
--->
 
 <br>
 
@@ -87,7 +79,7 @@ Python Scripts / Apps
 
 ## <img height="25px" src="https://github.com/user-attachments/assets/ac26f7eb-e133-4343-8afb-cb0cd2fda676" /> Languages / Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,androidstudio,js,flask,fastapi,mysql,mongodb,react,express,nodejs,tailwind,supabase,firebase,git,html,css,vercel,ubuntu,linux,vscode,idea,pycharm&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,androidstudio,js,flask,fastapi,mysql,mongodb,react,express,nodejs,vite,tailwind,supabase,firebase,git,html,css,vercel,ubuntu,linux,vscode,idea,pycharm,vercel,postman&theme=dark)](https://skillicons.dev)
 
  
 <details>
