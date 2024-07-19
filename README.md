@@ -60,18 +60,18 @@ Python Scripts / Apps
 ## <img height="25px" src="https://github.com/user-attachments/assets/5d61e046-1ffc-4c58-916f-d2652b4388d3" /> Socials
 
 <p>
-<a href="https://aryanranderiya.com"><img height="40px" width="40px" src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/c7399a2e-ed5a-4cf0-bc2b-04d4665e981e"></a>&ensp;
-<a href="https://linkedin.com/in/aryanranderiya"><img  height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>&ensp;
-<a href="https://twitter.com/aryanranderiya"><img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png"></a>&ensp;
-<a href="https://discord.com/users/521279231284609032"><img height="40px" src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/7bf05e13-a931-4b20-bf13-4f4b8c2426ad" /></a>&ensp;
-<a href="https://instagram.com/aryanranderiya"><img height="40px" src="https://github.com/user-attachments/assets/b94a7c08-fa2a-4ef5-a1ab-3c092ab8726c" /></a>&ensp;
-<a href="https://behance.net/aryanranderiya"><img  height="40px" width="40px" src="https://github.com/user-attachments/assets/e555219a-6fba-4ecc-9d59-dcff7b44f770" /></a>&ensp;
-<a href="https://stackoverflow.com/users/21615084/aryan"><img  height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" /></a>&ensp;
-<a href="https://monkeytype.com/profile/aryanranderiya"><img height="55px" src="https://github.com/user-attachments/assets/2ad8f48b-7d28-44d2-abc6-2814248883fb" /></a>&ensp;
 
-<br>
+<a href="https://aryanranderiya.com"><img  height="45px" width="45px" src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/c7399a2e-ed5a-4cf0-bc2b-04d4665e981e" /></a>
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/aryanranderiya)
+[![My Skills](https://skillicons.dev/icons?i=twitter&theme=dark)](https://twitter.com/aryanranderiya)
+[![My Skills](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com/users/521279231284609032)
+[![My Skills](https://skillicons.dev/icons?i=stackoverflow&theme=dark)](https://stackoverflow.com/users/21615084/aryan)
+<a href="https://behance.net/aryanranderiya"><img  height="50px" width="50px" src="https://github.com/user-attachments/assets/e555219a-6fba-4ecc-9d59-dcff7b44f770" /></a>
+[![My Skills](https://skillicons.dev/icons?i=instagram&theme=dark)](https://instagram.com/aryanranderiya)
+<a href="https://monkeytype.com/profile/aryanranderiya"><img height="55px" src="https://github.com/user-attachments/assets/2ad8f48b-7d28-44d2-abc6-2814248883fb" /></a>&ensp;
 <br>
 <a href="https://discord.com/users/521279231284609032"> <img src="https://lanyard.cnrad.dev/api/521279231284609032" width=20% > </a>
+<br>
 
 </p>
 
