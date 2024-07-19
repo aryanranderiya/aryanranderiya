@@ -14,7 +14,9 @@ Feel free to connect with me to work on any projects!
 </svg>
 #### My Portfolio 👉 [aryanranderiya.com](https://aryanranderiya.com)
 
-## Projects
+<br>
+
+## <img height="25px" src="https://github.com/user-attachments/assets/8239fae7-d395-44bf-98bb-410d9532df56" /> Projects
 <details>
 <summary>
 Websites
@@ -63,7 +65,7 @@ Python Scripts / Apps
 
 <br>
 
-## 📥 Socials
+## <img height="25px" src="https://github.com/user-attachments/assets/5d61e046-1ffc-4c58-916f-d2652b4388d3" /> Socials
 
 <p>
 <a href="https://aryanranderiya.com"><img height="40px" width="40px" src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/c7399a2e-ed5a-4cf0-bc2b-04d4665e981e"></a>&ensp;
@@ -83,30 +85,31 @@ Python Scripts / Apps
 
 <br>
 
-## 🛠️ Languages / Tools
+## <img height="25px" src="https://github.com/user-attachments/assets/ac26f7eb-e133-4343-8afb-cb0cd2fda676" /> Languages / Tools
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,androidstudio,js,flask,fastapi,mysql,mongodb,react,express,nodejs,tailwind,supabase,firebase,git,html,css,vercel,ubuntu,linux,vscode,idea,pycharm&theme=dark)](https://skillicons.dev)
 
  
 <details>
 <summary>
-<h2> 📈 Statistics </h2>
+<h2> <img height="25px" src="https://github.com/user-attachments/assets/78315be5-b451-49f6-b188-ce8c7d0576d9" /> Statistics </h2>
 </summary>
 <img alt="Aryan's Profile Summary!" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanranderiya&theme=transparent" height="190px"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryanranderiya&theme=transparent&utcOffset=5.3" height="200px">
- </details>
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Aryan's Streak Stats" src="https://streak-stats.demolab.com?user=aryanranderiya&theme=highcontrast&date_format=j%20M%5B%20Y%5D&card_width=470&background=transparent" height="150px"/></a><img alt="Aryan's Github Stats" src="https://github-readme-stats-9e4w.vercel.app/api?username=aryanranderiya&show_icons=true&theme=dark&bg_color=00000000" height="150px"/><img alt="Aryan's Top Languages" src="https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanranderiya&layout=compact&theme=dark&exclude_repo=github-readme-stats&bg_color=00000000" height="150px"/></a>
+ </details>
 
 <details>
 <summary>
-<h2> 🏆 Trophies </h2>
+<h2> <img height="25px" src="https://github.com/user-attachments/assets/8c965d23-5da2-4929-a71f-50c03d688cb4" /> Trophies </h2>
 </summary>
 <img alt="Aryan's Trophies" src="https://github-profile-trophy.vercel.app/?username=aryanranderiya&theme=darkhub&column=9&no-frame=true&no-bg=true" />
 </details>
 
 <details>
 <summary>
-<h2> 🤝 Contributions </h2>
+    
+<h2> <img height="25px" src="https://github.com/user-attachments/assets/772260f4-103d-42b0-b697-e5258d7d36e6" /> Contributions </h2>
 </summary>
   
 ![](https://github-readme-activity-graph.vercel.app/graph?username=aryanranderiya&bg_color=transparent&line=00BBFF&point=fff&area=true&area_color=00bbff&title_color=fff&color=00bbff)
