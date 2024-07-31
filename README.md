@@ -70,7 +70,8 @@ Python Scripts / Apps
 [![My Skills](https://skillicons.dev/icons?i=instagram&theme=dark)](https://instagram.com/aryanranderiya)
 <a href="https://monkeytype.com/profile/aryanranderiya"><img height="55px" src="https://github.com/user-attachments/assets/2ad8f48b-7d28-44d2-abc6-2814248883fb" /></a>&ensp;
 <br>
-<a href="https://discord.com/users/521279231284609032"> <img src="https://lanyard.cnrad.dev/api/521279231284609032" width=20% > </a>
+<br>
+<a href="https://discord.com/users/521279231284609032"> <img src="https://lanyard.cnrad.dev/api/521279231284609032" width=35% > </a>
 <br>
 
 </p>
