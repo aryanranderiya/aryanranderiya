@@ -1,4 +1,4 @@
-![](https://github.com/aryanranderiya/aryanranderiya/assets/64796509/91f50587-e41b-4afa-88c6-fba6e62919ce)
+[![](https://github.com/aryanranderiya/aryanranderiya/assets/64796509/91f50587-e41b-4afa-88c6-fba6e62919ce)](https://aryanranderiya.com)
 <br>
 
 # Hello World! &nbsp;<img src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/710e2c34-fb64-46db-8bbf-450c00dabe70" width=40px>  <img src="https://komarev.com/ghpvc/?username=aryanranderiya&color=00bbff&style=flat-square&abbreviated=true" align="right" height="30px">
@@ -12,7 +12,7 @@ Feel free to connect with me to work on any projects!
     <path d="M8.5 12L7.58009 12.7929C7.19337 13.1262 7 13.2929 7 13.5C7 13.7071 7.19336 13.8738 7.58009 14.2071L8.5 15" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
     <path d="M13 11L11 16" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
 </svg>
-#### My Portfolio 👉 [aryanranderiya.com](https://aryanranderiya.com)
+### My Portfolio 👉 [aryanranderiya.com](https://aryanranderiya.com)
 
 <br>
 
