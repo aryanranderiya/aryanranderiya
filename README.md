@@ -90,7 +90,7 @@ Python Scripts / Apps
 
 ## <img height="25px" src="https://github.com/user-attachments/assets/ac26f7eb-e133-4343-8afb-cb0cd2fda676" /> Languages / Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,androidstudio,js,ts,react,nextjs,express,nodejs,flask,fastapi,mysql,mongodb,sqlite,vite,tailwind,supabase,firebase,git,html,css,php,vercel,ubuntu,linux,vscode,idea,pycharm,vercel,postman&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,androidstudio,js,ts,react,nextjs,express,nodejs,deno,flask,fastapi,mysql,mongodb,sqlite,vite,tailwind,supabase,firebase,git,html,css,php,vercel,ubuntu,linux,vscode,idea,pycharm,vercel,postman&theme=dark&perline=11)](https://skillicons.dev)
 
  
 <details open>
