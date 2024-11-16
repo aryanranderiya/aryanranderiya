@@ -30,12 +30,14 @@
 
 <br>
 
+<!--
 ## <img height="25px" src="https://github.com/user-attachments/assets/8239fae7-d395-44bf-98bb-410d9532df56" /> Projects
 <details>
 <summary>
 Websites
 </summary>
- 
+
+ <!--
 - [Rezrek -  a content first e-commerce platform](https://www.linkedin.com/posts/aryanranderiya_thrilled-to-showcase-my-work-at-rezrek-activity-7218101019698724864-JyBp)
 - [Portfolio Website](https://aryanranderiya.com)
 - [GAIA - General Purpose AI Assistant](https://gaia.aryanranderiya.com)
@@ -51,7 +53,7 @@ Websites
 <summary>
 Mobile Apps
 </summary>
-  
+
 - [TicketBus](https://aryanranderiya.com/Project?id=5_project_TicketBus_1712174799259)
 - [Wi-Fi Attendance](https://aryanranderiya.com/Project?id=1_project_Wi-Fi_Attendance_1712172995880)
  </details>
@@ -70,6 +72,7 @@ Python Scripts / Apps
  </details>
 
 <br>
+-->
 
 ## <img height="25px" src="https://github.com/user-attachments/assets/5d61e046-1ffc-4c58-916f-d2652b4388d3" /> Socials
 
@@ -88,18 +91,24 @@ Python Scripts / Apps
 
 </p>
 
+<br>
+<br>
+
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Aryan's Streak Stats" src="https://streak-stats.demolab.com?user=aryanranderiya&theme=highcontrast&date_format=j%20M%5B%20Y%5D&card_width=470&background=transparent" height="150px"/></a>  <img alt="Aryan's Github Stats" src="https://github-readme-stats-main-puce.vercel.app/api?username=aryanranderiya&show_icons=true&theme=dark&bg_color=00000000" height="150px"/>  <img alt="Aryan's Top Languages" src="https://github-readme-stats-main-puce.vercel.app/api/top-langs/?username=aryanranderiya&layout=compact&theme=dark&exclude_repo=github-readme-stats&bg_color=00000000&size_weight=0.5&count_weight=0.5&langs_count=6" height="150px"/></a>
+
+<br>
+<br>
+
+
 ## <img height="25px" src="https://github.com/user-attachments/assets/ac26f7eb-e133-4343-8afb-cb0cd2fda676" /> Languages / Tools
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,androidstudio,js,ts,react,nextjs,express,nodejs,deno,flask,fastapi,mysql,mongodb,redis,sqlite,vite,tailwind,supabase,firebase,git,postman,html,css,php,vercel,ubuntu,linux,vscode,idea,pycharm,vercel,c&theme=dark&perline=11)](https://skillicons.dev)
-
  
 <details open>
 <summary>
 <h2> <img height="25px" src="https://github.com/user-attachments/assets/78315be5-b451-49f6-b188-ce8c7d0576d9" /> Statistics </h2>
 </summary>
 <img alt="Aryan's Profile Summary!" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanranderiya&theme=transparent" height="190px"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryanranderiya&theme=transparent&utcOffset=5.3" height="200px">
-
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Aryan's Streak Stats" src="https://streak-stats.demolab.com?user=aryanranderiya&theme=highcontrast&date_format=j%20M%5B%20Y%5D&card_width=470&background=transparent" height="150px"/></a><img alt="Aryan's Github Stats" src="https://github-readme-stats-9e4w.vercel.app/api?username=aryanranderiya&show_icons=true&theme=dark&bg_color=00000000" height="150px"/><img alt="Aryan's Top Languages" src="https://github-readme-stats-9e4w.vercel.app/api/top-langs/?username=aryanranderiya&layout=compact&theme=dark&exclude_repo=github-readme-stats&bg_color=00000000" height="150px"/></a>
  </details>
 
 <details open>
