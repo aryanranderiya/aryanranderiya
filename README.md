@@ -94,7 +94,7 @@ Python Scripts / Apps
 <br>
 <br>
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Aryan's Streak Stats" src="https://streak-stats.demolab.com?user=aryanranderiya&theme=highcontrast&date_format=j%20M%5B%20Y%5D&card_width=470&background=transparent" height="150px"/></a>  <img alt="Aryan's Github Stats" src="https://github-readme-stats-main-puce.vercel.app/api?username=aryanranderiya&show_icons=true&theme=dark&bg_color=00000000" height="150px"/>  <img alt="Aryan's Top Languages" src="https://github-readme-stats-main-puce.vercel.app/api/top-langs/?username=aryanranderiya&layout=compact&theme=dark&exclude_repo=github-readme-stats&bg_color=00000000&size_weight=0.5&count_weight=0.5&langs_count=6" height="150px"/></a>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Aryan's Streak Stats" src="https://streak-stats.demolab.com?user=aryanranderiya&theme=highcontrast&date_format=j%20M%5B%20Y%5D&card_width=470&background=transparent" height="150px"/></a><img alt="Aryan's Github Stats" src="https://github-readme-stats-main-puce.vercel.app/api?username=aryanranderiya&show_icons=true&theme=dark&bg_color=00000000" height="150px"/><img alt="Aryan's Top Languages" src="https://github-readme-stats-main-puce.vercel.app/api/top-langs/?username=aryanranderiya&layout=compact&theme=dark&exclude_repo=github-readme-stats&bg_color=00000000&size_weight=0.5&count_weight=0.5&langs_count=6" height="150px"/></a>
 
 <br>
 <br>
