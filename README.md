@@ -15,7 +15,7 @@
 - 👨‍💻 All my projects are available on my [Portfolio website](https://aryanranderiya.com/SoftwareProjects).
 - 💬 Ask me about web development. I'd be happy to help.
 - 📫 Reach me at aryan.k.randeriya@gmail.com or [here](https://aryanranderiya.com/Contact)
-- ⚡ Fun fact : I have a Spotify [playlist](https://open.spotify.com/playlist/1kDa0wKgm0baT3550xsURH) with over 1600 songs
+- ⚡ Fun fact : I have a Spotify [playlist](https://open.spotify.com/playlist/1kDa0wKgm0baT3550xsURH) with over 1700 songs
 - 💻 Visit my [Portfolio](https://aryanranderiya.com) for more details about me.
 
 
