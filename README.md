@@ -10,13 +10,14 @@
 
 <p align="left"> I'm a Software Developer, Graphic Designer and tech enthusiast passionate about computers, technology and learning new things!</p>
 
-- 🔭 I’m currently working on a personalised AI assistant [G.A.I.A](https://gaia.aryanranderiya.com) and my [blog](https://blog.aryanranderiya.com)
+Most of my repositories are client work or private projects that can't be published publicly, you can read more about them [here](https://aryanranderiya.com/SoftwareProjects)
+
+- 🔭 I’m currently working on a personalised AI assistant [GAIA](https://gaia.aryanranderiya.com) and my [blog](https://blog.aryanranderiya.com)
 - 🌱 I’m currently exploring Deep Learning, NLP and Computer Vision
 - 👨‍💻 All my projects are available on my [Portfolio website](https://aryanranderiya.com/SoftwareProjects).
 - 💬 Ask me about web development. I'd be happy to help.
 - 📫 Reach me at aryan.k.randeriya@gmail.com or [here](https://aryanranderiya.com/Contact)
 - ⚡ Fun fact : I have a Spotify [playlist](https://open.spotify.com/playlist/1kDa0wKgm0baT3550xsURH) with over 1700 songs
-- 💻 Visit my [Portfolio](https://aryanranderiya.com) for more details about me.
 
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="#9b9b9b" fill="none">
