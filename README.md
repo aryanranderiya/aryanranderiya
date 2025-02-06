@@ -103,7 +103,7 @@ Python Scripts / Apps
 
 ## <img height="25px" src="https://github.com/user-attachments/assets/ac26f7eb-e133-4343-8afb-cb0cd2fda676" /> Languages / Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,androidstudio,js,ts,react,nextjs,express,nodejs,deno,flask,fastapi,mysql,mongodb,redis,sqlite,vite,tailwind,supabase,firebase,git,html,css,php,linux,c&theme=dark&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,androidstudio,js,ts,react,nextjs,express,nodejs,deno,flask,fastapi,mysql,mongodb,redis,sqlite,vite,docker,gcp,aws,tailwind,supabase,firebase,git,html,css,php,linux,c&theme=dark&perline=10)](https://skillicons.dev)
  
 <details open>
 <summary>
