@@ -126,8 +126,8 @@ Python Scripts / Apps
   
 ![](https://github-readme-activity-graph.vercel.app/graph?username=aryanranderiya&bg_color=transparent&line=00BBFF&point=fff&area=true&area_color=00bbff&title_color=fff&color=00bbff)
 <!-- <a href="https://green-wall.leoku.dev/api/og/share/aryanranderiya"><img src="https://green-wall.leoku.dev/api/og/share/aryanranderiya"/></a> -->
+
+![](https://green-wall.leoku.dev/api/og/share/aryanranderiya?year=2025&theme=Midnight)
 </details>
 
 ### <a href="https://www.buymeacoffee.com/aryanranderiya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px" ></a>
-
-![](https://green-wall.leoku.dev/api/og/share/aryanranderiya)
