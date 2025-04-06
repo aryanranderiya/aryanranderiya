@@ -10,15 +10,14 @@
   <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-<p align="left"> I'm a Software Developer, Graphic Designer and tech enthusiast passionate about computers, technology and learning new things!</p>
+<p align="left"> I'm a Software Developer, Graphic Designer and tech enthusiast passionate about building cool projects!</p>
 
-Most of my repositories are client work or private projects that can't be published publicly, you can read more about them [here](https://aryanranderiya.com/SoftwareProjects)
+A lot of my repositories are client work or private projects that can't be published publicly, you can read more about them on [my portfolio](https://aryanranderiya.com/SoftwareProjects)
 
-- 🔭 I’m currently working on a personalised AI assistant [GAIA](https://heygaia.io)
-- 👨‍💻 All my projects are available on my [Portfolio website](https://aryanranderiya.com/SoftwareProjects).
-- 💬 Ask me about web development. I'd be happy to help.
+- 🔭 I’m currently working on a personalised AI assistant called GAIA. [heygaia.io](https://heygaia.io)
+- 👨‍💻 Check out my Portfolio! [aryanranderiya.com](https://aryanranderiya.com/SoftwareProjects).
 - 📫 Reach me at aryan@heygaia.io or [here](https://aryanranderiya.com/Contact)
-- ⚡ Fun fact : I have a Spotify [playlist](https://open.spotify.com/playlist/1kDa0wKgm0baT3550xsURH) with over 1700 songs
+<!-- - ⚡ Fun fact : I have a Spotify [playlist](https://open.spotify.com/playlist/1kDa0wKgm0baT3550xsURH) with over 1700 songs -->
 
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="#9b9b9b" fill="none">
@@ -28,9 +27,7 @@ Most of my repositories are client work or private projects that can't be publis
     <path d="M13 11L11 16" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
 </svg>
 
-### My Portfolio 👉 [aryanranderiya.com](https://aryanranderiya.com)
-
-<br>
+<!-- ### My Portfolio 👉 [aryanranderiya.com](https://aryanranderiya.com) -->
 
 <!--
 ## <img height="25px" src="https://github.com/user-attachments/assets/8239fae7-d395-44bf-98bb-410d9532df56" /> Projects
