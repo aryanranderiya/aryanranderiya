@@ -14,7 +14,7 @@
 
 A lot of my repositories are client work or private projects that can't be published publicly, you can read more about them on [my portfolio](https://aryanranderiya.com/SoftwareProjects)
 
-- 🔭 I’m currently working on a personalised AI assistant called GAIA. [heygaia.io](https://heygaia.io)
+- 🔭 I’m currently working on a personal AI assistant called GAIA → [heygaia.io](https://heygaia.io)
 - 👨‍💻 Check out my Portfolio! [aryanranderiya.com](https://aryanranderiya.com/SoftwareProjects).
 - 📫 Reach me at aryan@heygaia.io or [here](https://aryanranderiya.com/Contact)
 <!-- - ⚡ Fun fact : I have a Spotify [playlist](https://open.spotify.com/playlist/1kDa0wKgm0baT3550xsURH) with over 1700 songs -->
