@@ -6,11 +6,13 @@
 
 # Hello World! &nbsp;<img src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/710e2c34-fb64-46db-8bbf-450c00dabe70" width=40px>  <img src="https://komarev.com/ghpvc/?username=aryanranderiya&color=00bbff&style=flat-square&abbreviated=true" align="right" height="30px">
 
+
+<!-- 
 <div>
   <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-<p align="left"> I'm a Software Developer, Graphic Designer and tech enthusiast passionate about building cool projects!</p>
+<!-- <p align="left"> I'm a Software Developer, Graphic Designer and tech enthusiast passionate about building cool projects!</p> -->
 
 A lot of my repositories are client work or private projects that can't be published publicly, you can read more about them on [my portfolio](https://aryanranderiya.com/SoftwareProjects)
 
@@ -95,7 +97,7 @@ Python Scripts / Apps
 ## Languages / Tools
 <!-- <img height="25px" src="https://github.com/user-attachments/assets/ac26f7eb-e133-4343-8afb-cb0cd2fda676" /> -->
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,ts,js,tailwind,react,nextjs,astro,nodejs,express,deno,flask,fastapi,androidstudio,mysql,mongodb,redis,sqlite,supabase,firebase,docker,gcp,aws,git,php,c&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,ts,js,tailwind,react,nextjs,astro,nodejs,express,deno,flask,fastapi,androidstudio,mysql,mongodb,postgres,redis,sqlite,supabase,firebase,docker,gcp,aws,git,php,c&theme=dark)](https://skillicons.dev)
  
 <details open>
 <summary>
