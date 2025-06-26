@@ -97,7 +97,7 @@ Python Scripts / Apps
 ## Languages / Tools
 <!-- <img height="25px" src="https://github.com/user-attachments/assets/ac26f7eb-e133-4343-8afb-cb0cd2fda676" /> -->
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,ts,js,tailwind,react,nextjs,astro,nodejs,express,deno,flask,fastapi,androidstudio,mysql,mongodb,postgres,redis,sqlite,supabase,firebase,docker,gcp,aws,git,php,c&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,ts,js,go,tailwind,react,nextjs,astro,nodejs,express,deno,flask,fastapi,androidstudio,mysql,mongodb,postgres,redis,sqlite,supabase,firebase,docker,gcp,aws,git,php,c&theme=dark)](https://skillicons.dev)
  
 <details>
 <summary>
