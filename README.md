@@ -1,8 +1,4 @@
-<!-- [![](https://github.com/user-attachments/assets/052c567f-ba6b-4a1d-9e23-d635f76496b3)](https://aryanranderiya.com)
-
-
-<br>
--->
+[![](https://github.com/user-attachments/assets/052c567f-ba6b-4a1d-9e23-d635f76496b3)](https://aryanranderiya.com)
 
 # Hello World! &nbsp;<img src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/710e2c34-fb64-46db-8bbf-450c00dabe70" width=40px>  <img src="https://komarev.com/ghpvc/?username=aryanranderiya&color=00bbff&style=flat-square&abbreviated=true" align="right" height="30px">
 
@@ -14,11 +10,13 @@
 
 <!-- <p align="left"> I'm a Software Developer, Graphic Designer and tech enthusiast passionate about building cool projects!</p> -->
 
-A lot of my repositories are client work or private projects that can't be published publicly, you can read more about them on [my portfolio](https://aryanranderiya.com/SoftwareProjects)
+- I’m currently working on a personal AI assistant called GAIA → [heygaia.io](https://heygaia.io)
+- Sometimes i write random blogs, you can check them out [here](https://blog.aryanranderiya.com).
+- Check out [my Portfolio](https://aryanranderiya.com)!
+- Reach me at aryan@heygaia.io or [here](https://aryanranderiya.com/Contact)
 
-- 🔭 I’m currently working on a personal AI assistant called GAIA → [heygaia.io](https://heygaia.io)
-- 👨‍💻 Check out my Portfolio! [aryanranderiya.com](https://aryanranderiya.com/SoftwareProjects).
-- 📫 Reach me at aryan@heygaia.io or [here](https://aryanranderiya.com/Contact)
+A lot of my repositories are client work that can't be published publicly, you can read more about them on [my portfolio](https://aryanranderiya.com/SoftwareProjects)
+
 <!-- - ⚡ Fun fact : I have a Spotify [playlist](https://open.spotify.com/playlist/1kDa0wKgm0baT3550xsURH) with over 1700 songs -->
 
 
@@ -77,8 +75,6 @@ Python Scripts / Apps
 
 <!-- ## <img height="25px" src="https://github.com/user-attachments/assets/5d61e046-1ffc-4c58-916f-d2652b4388d3" /> -->
 
-## Socials
-
 <p>
 
 <a href="https://aryanranderiya.com"><img  height="45px" width="45px" src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/c7399a2e-ed5a-4cf0-bc2b-04d4665e981e" /></a>
@@ -99,7 +95,7 @@ Python Scripts / Apps
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,ts,js,go,tailwind,react,nextjs,astro,nodejs,express,deno,flask,fastapi,androidstudio,mysql,mongodb,postgres,redis,sqlite,supabase,firebase,docker,gcp,aws,git,php,c&theme=dark)](https://skillicons.dev)
  
-<details>
+<details open>
 <summary>
 <h3>
 <!--   <img height="25px" src="https://github.com/user-attachments/assets/78315be5-b451-49f6-b188-ce8c7d0576d9" />  -->
