@@ -12,10 +12,11 @@
 
 - I’m currently working on a personal AI assistant called GAIA → [heygaia.io](https://heygaia.io)
 - Sometimes i write random blogs, you can check them out [here](https://blog.aryanranderiya.com).
+- I'm also a bit active on the tweeter (𝕏) so follow me [@aryanranderiya](https://blog.aryanranderiya.com). 
 - Check out [my Portfolio](https://aryanranderiya.com)!
-- Reach me at aryan@heygaia.io or [here](https://aryanranderiya.com/Contact)
+- Reach me at aryan@heygaia.io or [here](https://aryanranderiya.com/Contact). I try to read and respond to all my emails (within good reason)
 
-A lot of my repositories are client work that can't be published publicly, you can read more about them on [my portfolio](https://aryanranderiya.com/SoftwareProjects)
+A lot of my github repositories are client work that can't be published publicly, but you can read more about them on [my portfolio](https://aryanranderiya.com/SoftwareProjects)
 
 <!-- - ⚡ Fun fact : I have a Spotify [playlist](https://open.spotify.com/playlist/1kDa0wKgm0baT3550xsURH) with over 1700 songs -->
 
@@ -112,7 +113,12 @@ Python Scripts / Apps
 <!--   <img height="25px" src="https://github.com/user-attachments/assets/8c965d23-5da2-4929-a71f-50c03d688cb4" /> -->
   Trophies </h3>
 </summary>
+  
+  
 <img alt="Aryan's Trophies" src="https://github-profile-trophy.vercel.app/?username=aryanranderiya&theme=darkhub&column=9&no-frame=true&no-bg=true" />
+
+[![An image of @aryanranderiya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryanranderiya)](https://holopin.io/@aryanranderiya)
+
 </details>
 
 <details>
