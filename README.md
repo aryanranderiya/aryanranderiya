@@ -1,4 +1,4 @@
-[![](https://github.com/user-attachments/assets/052c567f-ba6b-4a1d-9e23-d635f76496b3)](https://aryanranderiya.com)
+<!-- [![](https://github.com/user-attachments/assets/052c567f-ba6b-4a1d-9e23-d635f76496b3)](https://aryanranderiya.com) -->
 
 # Hello World! &nbsp;<img src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/710e2c34-fb64-46db-8bbf-450c00dabe70" width=40px>  <img src="https://komarev.com/ghpvc/?username=aryanranderiya&color=00bbff&style=flat-square&abbreviated=true" align="right" height="30px">
 
@@ -15,10 +15,8 @@
 - I'm also a bit active on the tweeter (𝕏) so follow me [@aryanranderiya](https://blog.aryanranderiya.com). 
 - Check out [my Portfolio](https://aryanranderiya.com)!
 - Reach me at aryan@heygaia.io or [here](https://aryanranderiya.com/Contact). I try to read and respond to all my emails (within good reason)
-
-A lot of my github repositories are client work that can't be published publicly, but you can read more about them on [my portfolio](https://aryanranderiya.com/SoftwareProjects)
-
-<!-- - ⚡ Fun fact : I have a Spotify [playlist](https://open.spotify.com/playlist/1kDa0wKgm0baT3550xsURH) with over 1700 songs -->
+- A lot of my github repositories are client work that can't be published publicly, but you can read more about them on [my portfolio](https://aryanranderiya.com/SoftwareProjects)
+- Fun fact: I have a Spotify [playlist](https://open.spotify.com/playlist/1kDa0wKgm0baT3550xsURH) with over 2k+ songs
 
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="#9b9b9b" fill="none">
@@ -91,30 +89,34 @@ Python Scripts / Apps
 
 </p>
 
+<!--
 ## Languages / Tools
-<!-- <img height="25px" src="https://github.com/user-attachments/assets/ac26f7eb-e133-4343-8afb-cb0cd2fda676" /> -->
+<!-- <img height="25px" src="https://github.com/user-attachments/assets/ac26f7eb-e133-4343-8afb-cb0cd2fda676" />
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,ts,js,go,tailwind,react,nextjs,astro,nodejs,express,deno,flask,fastapi,androidstudio,mysql,mongodb,postgres,redis,sqlite,supabase,firebase,docker,gcp,aws,git,php,c&theme=dark)](https://skillicons.dev)
+
+-->
  
 <details open>
 <summary>
 <h3>
 <!--   <img height="25px" src="https://github.com/user-attachments/assets/78315be5-b451-49f6-b188-ce8c7d0576d9" />  -->
-  Statistics </h3>
+  &nbsp;Statistics </h3>
 </summary>
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Aryan's Streak Stats" src="https://github-readme-streak-stats-eight.vercel.app/?user=aryanranderiya&theme=highcontrast&date_format=j%20M%5B%20Y%5D&card_width=470&background=transparent" height="150px"/></a><img alt="Aryan's Github Stats" src="https://github-readme-stats-main-puce.vercel.app/api?username=aryanranderiya&show_icons=true&theme=dark&bg_color=00000000" height="150px"/><img alt="Aryan's Top Languages" src="https://github-readme-stats-main-puce.vercel.app/api/top-langs/?username=aryanranderiya&layout=compact&theme=dark&exclude_repo=github-readme-stats&bg_color=00000000&size_weight=0.5&count_weight=0.5&langs_count=6" height="150px"/></a>
   
 <img alt="Aryan's Profile Summary!" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanranderiya&theme=transparent" height="190px"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryanranderiya&theme=transparent&utcOffset=5.3" height="200px">
  </details>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+ 
 <details>
 <summary>
-<h3> 
-<!--   <img height="25px" src="https://github.com/user-attachments/assets/8c965d23-5da2-4929-a71f-50c03d688cb4" /> -->
-  Trophies </h3>
+<h3> <!--   <img height="25px" src="https://github.com/user-attachments/assets/8c965d23-5da2-4929-a71f-50c03d688cb4" /> -->&nbsp;Trophies </h3>
 </summary>
-  
-  
+    
 <img alt="Aryan's Trophies" src="https://github-profile-trophy.vercel.app/?username=aryanranderiya&theme=darkhub&column=9&no-frame=true&no-bg=true" />
 
 [![An image of @aryanranderiya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryanranderiya)](https://holopin.io/@aryanranderiya)
@@ -124,13 +126,13 @@ Python Scripts / Apps
 <details>
 <summary>
     
-<h3>
-<!--   <img height="25px" src="https://github.com/user-attachments/assets/772260f4-103d-42b0-b697-e5258d7d36e6" /> -->
-  Contributions </h3>
+<h3><!--   <img height="25px" src="https://github.com/user-attachments/assets/772260f4-103d-42b0-b697-e5258d7d36e6" /> -->&nbsp;Contributions </h3>
 </summary>
   
 ![](https://github-readme-activity-graph.vercel.app/graph?username=aryanranderiya&bg_color=transparent&line=00BBFF&point=fff&area=true&area_color=00bbff&title_color=fff&color=00bbff)
 <!-- <a href="https://green-wall.leoku.dev/api/og/share/aryanranderiya"><img src="https://green-wall.leoku.dev/api/og/share/aryanranderiya"/></a> -->
+![](https://green-wall.leoku.dev/api/og/share/aryanranderiya?start=2024&size=l&theme=Midnight&showAttribution=false)
+
 
 <!--
 ![](https://green-wall.leoku.dev/api/og/share/aryanranderiya?year=2025&theme=Midnight) 
