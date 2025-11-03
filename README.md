@@ -105,18 +105,9 @@ Python Scripts / Apps
 [![My Skills](https://skillicons.dev/icons?i=python,java,ts,js,go,tailwind,react,nextjs,astro,nodejs,express,deno,flask,fastapi,androidstudio,mysql,mongodb,postgres,redis,sqlite,supabase,firebase,docker,gcp,aws,git,php,c&theme=dark)](https://skillicons.dev)
 
 -->
- 
-<details>
-<summary>
-<h3>
-<!--   <img height="25px" src="https://github.com/user-attachments/assets/78315be5-b451-49f6-b188-ce8c7d0576d9" />  -->
-  &nbsp;Statistics </h3>
-</summary>
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Aryan's Streak Stats" src="https://github-readme-streak-stats-eight.vercel.app/?user=aryanranderiya&theme=highcontrast&date_format=j%20M%5B%20Y%5D&card_width=470&background=transparent" height="150px"/></a><img alt="Aryan's Github Stats" src="https://github-readme-stats-main-puce.vercel.app/api?username=aryanranderiya&show_icons=true&theme=dark&bg_color=00000000" height="150px"/><img alt="Aryan's Top Languages" src="https://github-readme-stats-main-puce.vercel.app/api/top-langs/?username=aryanranderiya&layout=compact&theme=dark&exclude_repo=github-readme-stats&bg_color=00000000&size_weight=0.5&count_weight=0.5&langs_count=6" height="150px"/></a>
-  
-<img alt="Aryan's Profile Summary!" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanranderiya&theme=transparent" height="190px"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryanranderiya&theme=transparent&utcOffset=5.3" height="200px">
- </details>
+
+Weekly
 
 <!--START_SECTION:weekly-->
 
@@ -132,6 +123,7 @@ Docker       2 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:weekly-->
 
+Monthly
 <!--START_SECTION:monthly-->
 
 ```txt
@@ -146,10 +138,25 @@ JSON         6 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:monthly-->
 
+All Time
+
 <!--START_SECTION:alltime-->
 <!--END_SECTION:alltime-->
 
+
  
+<details>
+<summary>
+<h3>
+<!--   <img height="25px" src="https://github.com/user-attachments/assets/78315be5-b451-49f6-b188-ce8c7d0576d9" />  -->
+  &nbsp;Statistics </h3>
+</summary>
+
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Aryan's Streak Stats" src="https://github-readme-streak-stats-eight.vercel.app/?user=aryanranderiya&theme=highcontrast&date_format=j%20M%5B%20Y%5D&card_width=470&background=transparent" height="150px"/></a><img alt="Aryan's Github Stats" src="https://github-readme-stats-main-puce.vercel.app/api?username=aryanranderiya&show_icons=true&theme=dark&bg_color=00000000" height="150px"/><img alt="Aryan's Top Languages" src="https://github-readme-stats-main-puce.vercel.app/api/top-langs/?username=aryanranderiya&layout=compact&theme=dark&exclude_repo=github-readme-stats&bg_color=00000000&size_weight=0.5&count_weight=0.5&langs_count=6" height="150px"/></a>
+  
+<img alt="Aryan's Profile Summary!" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanranderiya&theme=transparent" height="190px"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryanranderiya&theme=transparent&utcOffset=5.3" height="200px">
+ </details>
+
 <details>
 <summary>
 <h3> <!--   <img height="25px" src="https://github.com/user-attachments/assets/8c965d23-5da2-4929-a71f-50c03d688cb4" /> -->&nbsp;Trophies </h3>
