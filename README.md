@@ -97,7 +97,7 @@ Python Scripts / Apps
 
 -->
  
-<details open>
+<details>
 <summary>
 <h3>
 <!--   <img height="25px" src="https://github.com/user-attachments/assets/78315be5-b451-49f6-b188-ce8c7d0576d9" />  -->
@@ -108,17 +108,15 @@ Python Scripts / Apps
   
 <img alt="Aryan's Profile Summary!" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanranderiya&theme=transparent" height="190px"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryanranderiya&theme=transparent&utcOffset=5.3" height="200px">
  </details>
-<!--START_SECTION:waka-->
 
-```txt
-TypeScript   3 hrs 19 mins   ██████████████████▒░░░░░░   72.71 %
-Astro        52 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.15 %
-Python       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-JSON         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-Docker       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-```
+<!--START_SECTION:weekly development metrics-->
+<!--END_SECTION:weekly development metrics-->
 
-<!--END_SECTION:waka-->
+<!--START_SECTION:monthly development metrics-->
+<!--END_SECTION:monthly development metrics-->
+
+<!--START_SECTION:all time development metrics-->
+<!--END_SECTION:all time development metrics-->
 
  
 <details>
