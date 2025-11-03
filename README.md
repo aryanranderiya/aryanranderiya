@@ -116,7 +116,7 @@ Python Scripts / Apps
 
 
 
-## Weekly
+#### Weekly
 
 <!--START_SECTION:weekly-->
 
@@ -134,7 +134,7 @@ JSON         6 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:weekly-->
 
-### Monthly
+#### Monthly
 <!--START_SECTION:monthly-->
 
 ```txt
@@ -151,10 +151,10 @@ JSON         6 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:monthly-->
 
-### All Time
+#### All Time
 
-<!--START_SECTION:all_time-->
-<!--END_SECTION:all_time-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <details>
