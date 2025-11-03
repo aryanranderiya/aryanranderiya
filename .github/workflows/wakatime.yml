@@ -16,6 +16,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TIME: true
           SHOW_TOTAL: true
+          SHOW_TITLE: true
           TIME_RANGE: last_7_days
           SECTION_NAME: weekly
 
@@ -25,6 +26,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TIME: true
           SHOW_TOTAL: true
+          SHOW_TITLE: true
           TIME_RANGE: last_30_days
           SECTION_NAME: monthly
 
@@ -34,5 +36,6 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TIME: true
           SHOW_TOTAL: true
+          SHOW_TITLE: true
           TIME_RANGE: all_time
-          SECTION_NAME: alltime
+          SECTION_NAME: all_time
