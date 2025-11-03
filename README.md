@@ -154,6 +154,19 @@ JSON         6 mins          ▒░░░░░░░░░░░░░░░░
 #### All Time
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 15 February 2024 - To: 02 November 2025
+
+Total Time: 25 hrs 21 mins
+
+TypeScript   5 hrs 18 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.78 %
+Python       5 hrs 16 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.67 %
+C            4 hrs 53 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.14 %
+HTML         4 hrs 16 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.76 %
+CSS          1 hr 49 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
+```
+
 <!--END_SECTION:waka-->
 
 
