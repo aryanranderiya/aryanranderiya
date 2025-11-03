@@ -1,17 +1,11 @@
 <!-- [![](https://github.com/user-attachments/assets/052c567f-ba6b-4a1d-9e23-d635f76496b3)](https://aryanranderiya.com) -->
 
-# Hello World! &nbsp;<img src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/710e2c34-fb64-46db-8bbf-450c00dabe70" width=40px>  <img src="https://komarev.com/ghpvc/?username=aryanranderiya&color=00bbff&style=flat-square&abbreviated=true" align="right" height="30px">
-
-
-
+# Hello World! &nbsp;<img src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/710e2c34-fb64-46db-8bbf-450c00dabe70" width=40px>  <img src="https://komarev.com/ghpvc/?username=aryanranderiya&color=00bbff&abbreviated=true" align="right" height="30px">
 
 [![The Experience Company](https://img.shields.io/badge/Experience-121212?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyOTE3IDI1OTYuMjIiPgogIDxkZWZzPgogICAgPHN0eWxlPgogICAgICAuY2xzLTEgewogICAgICAgIGZpbGw6ICNmZmY7CiAgICAgIH0KICAgIDwvc3R5bGU+CiAgPC9kZWZzPgogIDxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTE2MjIuNDQsMTE0MC44MmMtMTcxLjM2LDExNi43Ny0yMTQuNzcsMTM5Ljc0LTI1MC41MSwxOTEuMTktODguNzgsMTI3Ljc4LTk2LjE4LDI3MS45LTkyLjAxLDM1OS42NiwxLjM5LDI3OC44MS00LjY3LDU1MC4xNi0zLjI4LDgyOC45NiwzNDUuNjYtMTQ0LjQ4LDc3NS40OS0zOTcuMDgsMTExNy41LTgzOS45Myw2OC4xMS04OC4xOSw3NjQuMjktOTc0LjMyLDQzNC43Ni0xNDE0LjE0QzI2OTUuMDIsODcuODYsMjQ3Mi4xNyw5LjcxLDIyNTQuMTMsMS41NCwxMzI2Ljc5LTMzLjIsNDg3Ljc3LDUyNS40NywxNTEuOTUsMTExMi4yM2MtLjY0LDEuMTEtMS41NiwyLjczLTIuNzUsNC44Mi01Ni4zNSw5OS4zOS0yMjAuNzIsMzg5LjM2LTExMy44OSw1NDUuMjIsNTMuOTUsNzguNywxNTYuNzgsOTMuNjQsMTc2LjI5LDk2LjQ3LDExMi4zOCwxNi4zMywyMDUuNDUtMzUuNjEsMzE4LjQzLTEwMC45NywxNDguMjctODUuNzcsMjIyLjYzLTEyOC4yNSwyMjMuNjYtMTI4LjkzLDExMC44LTczLjAzLDI5Mi40NS0xMzYuMzUsNDY5LjU5LTI2OS43LjI5LS4yMi01LjQ1LDMuMjctMTYuMzMsOS43OS0xNi43NiwxMC4wNC0zMDguNjksMTE2LjYzLTM5Mi42OCwxNzUuMDYtMTM4LjQ4LDk2LjM0LTUxMC40LDE2Ny44LTU3NC44NSw0OS4zNC02OS44My0xMjguMzMsMTc5Ljg1LTQ1Ni4xOSwyNTguODQtNTYwLjgyLjgxLTEuMDcsNy42Ny0xMC4wNSwxNC40Ny0xOC44NSwzMDguMDItMzk3Ljg0LDcwNC4zNS01NTAuNjgsNzc1LjgzLTU3Ny4yLDM4NC44Mi0xNDIuNzksOTM4LjgxLTE5Ny4xMiwxMDIwLjExLTIxLjE5LDc0LjQ0LDE2MS4xLTE0Mi41OSw0MjAuNDMtMzIxLjkxLDU1OC42OCIvPgogIDxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTcyNS4yNiwxNjEyLjcyYy0xMDUuMiw1NC45NC0xOTUuMTQsODguMDYtMjQ3LjQyLDEwNS42NS0xNzYuMDYsNTkuMjUtMjMxLjc3LDMxLjk2LTIzOC4xNCwxMS4xNS04LjU1LTI3LjkxLDE4NS40MS05Ny45NiwyMDkuOTItMTA3LjUxLDc0LjMyLTI4LjkzLDk5LjQ5LTM2Ljc3LDE2My41Ny02NS4wOCw0NS4zMi0yMC4wMiwxNDIuNC02Ni4xNSwyNDMuNTItMTQ0LjA1LDEwLjk1LTguNDMsMjAuMDctMTUuMzgsMzIuMjItMjUuOTIsNDAuMTEtMzQuNzcsOTAuNzItODEuMzksMTMyLjczLTE1OC4zNCwzNy44My02OS4yOSw0OS45My0xNjUuODMsNTQuMDUtMjUyLjUyLDQuMDktLjk5LDIuNjIsNy40MiwyLjk2LDExLjQ0LDcuMjYsODcuNDksMTQuODQsMjM4LjU2LDk3LjU3LDI0NS42OCw2MS42Miw1LjMxLDExMy4xNi0yNy42OSwxNjguNTQtNTMuNzcsMi4yMS0xLjA0LDcuNi00LjU5LDcuMzIsMS40Ny03Mi4wOCw0OC4wMS0xMjAuMzcsOTQuODEtMTQ5LjQ3LDEyNi40Ni0zOS4zOCw0Mi44Mi01Ny43Myw3My4yNi02OS4wMiw5NS4xOS01Ljk5LDExLjY0LTE2LjM5LDMyLjEtMjQuODIsNjAuMzctMjUuMzIsODQuOTgtMjkuMTIsMjI4LjQyLTI5LjEsMjM0LjkxLDAsMCwwLC4xNi0uMDQuMTctMS41Ni4yOS0yMy43OS0yMjQuNi04My45NC0yNDMuNzMtMTIuMjgtMy45MS0yNy44NS0uNzItMzEuNDkuNzUtMTQuMjEsNS43MS0xMTAuODIsOTAuNzYtMjM4Ljk3LDE1Ny42OFoiLz4KPC9zdmc+)](https://experience.heygaia.io)
 [![GAIA](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/heygaia/gaia/refs/heads/master/frontend/public/badge.json)](https://heygaia.io)
 
 
-<div>
-  <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
 
 <!-- <p align="left"> I'm a Software Developer, Graphic Designer and tech enthusiast passionate about building cool projects!</p> -->
 
@@ -23,8 +17,6 @@
 - A lot of my github repositories are client work that can't be published publicly, but you can read more about them on [my portfolio](https://aryanranderiya.com/SoftwareProjects)
 - Fun fact: I have a Spotify [playlist](https://open.spotify.com/playlist/1kDa0wKgm0baT3550xsURH) with over 2k+ songs
 
-<br />
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDI0IDI0Ij48dGl0bGU+TGlua2VkaW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDYgMjAuNDQ2aC0zLjU4N1YxNC4zYzAtMS40NDUtLjAyOC0zLjMwMy0yLjAxMy0zLjMwMy0yLjAxMyAwLTIuMzI0IDEuNTc1LTIuMzI0IDMuMjAzVjIwLjQ0NmgtMy41ODZWOS4wN2gzLjQ0NHYxLjU1MWMuNDgtLjkxMyAxLjY0MS0xLjg3MyAzLjM3OC0xLjg3MyAzLjYwNCAwIDQuMjYyIDIuMzc3IDQuMjYyIDUuNDY2djYuMjMzSDB2MS4yNWgxOXYtMS4yNXpNNS4yMjUgNy43NWMtMS4xNTYgMC0yLjA5Mi0uOTM2LTIuMDkyLTIuMDkyIDAtMS4xNTYuOTM2LTIuMDkyIDIuMDkyLTIuMDkyIDEuMTU2IDAgMi4wOTIuOTM2IDIuMDkyIDIuMDkyIDAgMS4xNTYtLjkzNiAyLjA5Mi0yLjA5MiAyLjA5MnpNNi45OTYgMjAuNDQ2SDMuNDQ2VjkuMDdoMy41NTRWMjAuNDQ2ek0yMiAwSDBDMCAwIDAgMCAwIDB2MjRoMjRWMHoiIGZpbGw9IiNmZmYiLz48L3N2Zz4=)](https://linkedin.com/in/aryanranderiya)
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/aryanranderiya)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/521279231284609032)
@@ -32,7 +24,6 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/21615084/aryan)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=white)](https://behance.net/aryanranderiya)
 [![Monkeytype](https://img.shields.io/badge/Monkeytype-FFD34E?logo=monkeytype&logoColor=black)](https://monkeytype.com/profile/aryanranderiya)
-
 
 <!--
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="#9b9b9b" fill="none">
@@ -114,10 +105,6 @@ Python Scripts / Apps
 
 -->
 
-
-
-#### Weekly
-
 <!--START_SECTION:weekly-->
 
 ```txt
@@ -133,6 +120,16 @@ JSON         6 mins          ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:weekly-->
+
+<details>
+<summary><h3>&nbsp;All Stats </h3></summary>
+
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Aryan's Streak Stats" src="https://github-readme-streak-stats-eight.vercel.app/?user=aryanranderiya&theme=react&date_format=j%20M%5B%20Y%5D&card_width=470&background=121212&border=transparent&border_radius=15" height="150px"/></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aryan's Github Stats" src="https://github-readme-stats-main-puce.vercel.app/api?username=aryanranderiya&show_icons=true&theme=react&bg_color=121212&border_color=00000000&border_radius=15" height="150px"/></a> <a href="https://github.com/anuraghazra/github-readme-stats">
+<img alt="Aryan's Top Languages" src="https://github-readme-stats-main-puce.vercel.app/api/top-langs/?username=aryanranderiya&layout=compact&theme=react&exclude_repo=github-readme-stats&bg_color=121212&size_weight=0.5&count_weight=0.5&langs_count=6&border_color=00000000&border_radius=15" height="150px"/>
+</a>
+
+
+
 
 #### Monthly
 <!--START_SECTION:monthly-->
@@ -169,46 +166,19 @@ CSS          1 hr 49 mins    █▓░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-
-<details>
-<summary>
-<h3>
-<!--   <img height="25px" src="https://github.com/user-attachments/assets/78315be5-b451-49f6-b188-ce8c7d0576d9" />  -->
-  &nbsp;Statistics </h3>
-</summary>
-
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Aryan's Streak Stats" src="https://github-readme-streak-stats-eight.vercel.app/?user=aryanranderiya&theme=highcontrast&date_format=j%20M%5B%20Y%5D&card_width=470&background=transparent" height="150px"/></a><img alt="Aryan's Github Stats" src="https://github-readme-stats-main-puce.vercel.app/api?username=aryanranderiya&show_icons=true&theme=dark&bg_color=00000000" height="150px"/><img alt="Aryan's Top Languages" src="https://github-readme-stats-main-puce.vercel.app/api/top-langs/?username=aryanranderiya&layout=compact&theme=dark&exclude_repo=github-readme-stats&bg_color=00000000&size_weight=0.5&count_weight=0.5&langs_count=6" height="150px"/></a>
   
 <img alt="Aryan's Profile Summary!" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanranderiya&theme=transparent" height="190px"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryanranderiya&theme=transparent&utcOffset=5.3" height="200px">
- </details>
 
-<details>
-<summary>
-<h3> <!--   <img height="25px" src="https://github.com/user-attachments/assets/8c965d23-5da2-4929-a71f-50c03d688cb4" /> -->&nbsp;Trophies </h3>
-</summary>
-    
-<img alt="Aryan's Trophies" src="https://github-profile-trophy.vercel.app/?username=aryanranderiya&theme=darkhub&column=9&no-frame=true&no-bg=true" />
-
-[![An image of @aryanranderiya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryanranderiya)](https://holopin.io/@aryanranderiya)
-
-</details>
-
-<details>
-<summary>
-    
-<h3><!--   <img height="25px" src="https://github.com/user-attachments/assets/772260f4-103d-42b0-b697-e5258d7d36e6" /> -->&nbsp;Contributions </h3>
-</summary>
-  
-![](https://github-readme-activity-graph.vercel.app/graph?username=aryanranderiya&bg_color=transparent&line=00BBFF&point=fff&area=true&area_color=00bbff&title_color=fff&color=00bbff)
-<!-- <a href="https://green-wall.leoku.dev/api/og/share/aryanranderiya"><img src="https://green-wall.leoku.dev/api/og/share/aryanranderiya"/></a> -->
-![](https://green-wall.leoku.dev/api/og/share/aryanranderiya?start=2024&size=l&theme=Midnight&showAttribution=false)
-
+![](https://github-profile-trophy.vercel.app/?username=aryanranderiya&theme=darkhub&column=9&no-frame=true&no-bg=true)
 
 <!--
-![](https://green-wall.leoku.dev/api/og/share/aryanranderiya?year=2025&theme=Midnight) 
-
-</details>
-
-### <a href="https://www.buymeacoffee.com/aryanranderiya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px" ></a>
+[![](https://holopin.me/aryanranderiya)](https://holopin.io/@aryanranderiya)
+![](https://github-readme-activity-graph.vercel.app/graph?username=aryanranderiya&bg_color=transparent&line=00BBFF&point=fff&area=true&area_color=00bbff&title_color=fff&color=00bbff)
+![](https://green-wall.leoku.dev/api/og/share/aryanranderiya?start=2024&size=l&theme=Midnight&showAttribution=false)
 
 -->
+
+<!--
+### <a href="https://www.buymeacoffee.com/aryanranderiya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px" ></a>
+-->
+
