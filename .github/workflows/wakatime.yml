@@ -38,4 +38,3 @@ jobs:
           SHOW_TOTAL: true
           SHOW_TITLE: true
           TIME_RANGE: all_time
-          SECTION_NAME: all_time
