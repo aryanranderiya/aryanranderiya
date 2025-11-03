@@ -2,8 +2,17 @@
 
 # Hello World! &nbsp;<img src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/710e2c34-fb64-46db-8bbf-450c00dabe70" width=40px>  <img src="https://komarev.com/ghpvc/?username=aryanranderiya&color=00bbff&style=flat-square&abbreviated=true" align="right" height="30px">
 
-
 <!-- 
+[![Portfolio](https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white)](https://aryanranderiya.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryanranderiya)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/aryanranderiya)
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/521279231284609032)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/21615084/aryan)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=white)](https://behance.net/aryanranderiya)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/aryanranderiya)
+[![Monkeytype](https://img.shields.io/badge/Monkeytype-FFD34E?logo=monkeytype&logoColor=black)](https://monkeytype.com/profile/aryanranderiya)
+
 <div>
   <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
@@ -109,14 +118,14 @@ Python Scripts / Apps
 <img alt="Aryan's Profile Summary!" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanranderiya&theme=transparent" height="190px"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryanranderiya&theme=transparent&utcOffset=5.3" height="200px">
  </details>
 
-<!--START_SECTION:weekly development metrics-->
-<!--END_SECTION:weekly development metrics-->
+<!--START_SECTION:weekly-->
+<!--END_SECTION:weekly-->
 
-<!--START_SECTION:monthly development metrics-->
-<!--END_SECTION:monthly development metrics-->
+<!--START_SECTION:monthly-->
+<!--END_SECTION:monthly-->
 
-<!--START_SECTION:all time development metrics-->
-<!--END_SECTION:all time development metrics-->
+<!--START_SECTION:alltime-->
+<!--END_SECTION:alltime-->
 
  
 <details>
