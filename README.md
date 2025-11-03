@@ -133,6 +133,17 @@ Docker       2 mins          ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:weekly-->
 
 <!--START_SECTION:monthly-->
+
+```txt
+Total Time: 7 hrs 8 mins
+
+TypeScript   5 hrs 18 mins   ██████████████████▓░░░░░░   74.41 %
+Astro        54 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
+MDX          30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
+Python       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+```
+
 <!--END_SECTION:monthly-->
 
 <!--START_SECTION:alltime-->
