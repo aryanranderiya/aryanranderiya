@@ -17,7 +17,7 @@ jobs:
           SHOW_TIME: true
           SHOW_TOTAL: true
           TIME_RANGE: last_7_days
-          SECTION_NAME: weekly development metrics
+          SECTION_NAME: weekly
 
       - name: Monthly WakaTime Stats
         uses: athul/waka-readme@master
@@ -26,7 +26,7 @@ jobs:
           SHOW_TIME: true
           SHOW_TOTAL: true
           TIME_RANGE: last_30_days
-          SECTION_NAME: monthly development metrics
+          SECTION_NAME: monthly
 
       - name: All Time WakaTime Stats
         uses: athul/waka-readme@master
@@ -35,4 +35,4 @@ jobs:
           SHOW_TIME: true
           SHOW_TOTAL: true
           TIME_RANGE: all_time
-          SECTION_NAME: all time development metrics
+          SECTION_NAME: all time
