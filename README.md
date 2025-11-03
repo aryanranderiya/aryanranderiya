@@ -138,6 +138,8 @@ JSON         6 mins          ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:monthly-->
 
 ```txt
+From: 03 October 2025 - To: 02 November 2025
+
 Total Time: 7 hrs 8 mins
 
 TypeScript   5 hrs 18 mins   ██████████████████▓░░░░░░   74.41 %
