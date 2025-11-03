@@ -119,6 +119,17 @@ Python Scripts / Apps
  </details>
 
 <!--START_SECTION:weekly-->
+
+```txt
+Total Time: 4 hrs 35 mins
+
+TypeScript   3 hrs 19 mins   ██████████████████▒░░░░░░   72.71 %
+Astro        52 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.15 %
+Python       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+JSON         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Docker       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+```
+
 <!--END_SECTION:weekly-->
 
 <!--START_SECTION:monthly-->
