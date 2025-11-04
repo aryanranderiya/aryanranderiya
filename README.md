@@ -135,15 +135,15 @@ JSON         6 mins          ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:monthly-->
 
 ```txt
-From: 03 October 2025 - To: 02 November 2025
+From: 04 October 2025 - To: 03 November 2025
 
-Total Time: 7 hrs 8 mins
+Total Time: 10 hrs 30 mins
 
-TypeScript   5 hrs 18 mins   ██████████████████▓░░░░░░   74.41 %
-Astro        54 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
-MDX          30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
-Python       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+TypeScript   8 hrs 38 mins   ████████████████████▓░░░░   82.23 %
+Astro        54 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
+MDX          30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+Python       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:monthly-->
