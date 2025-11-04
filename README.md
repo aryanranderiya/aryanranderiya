@@ -153,15 +153,15 @@ JSON         6 mins          ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 February 2024 - To: 02 November 2025
+From: 15 February 2024 - To: 03 November 2025
 
-Total Time: 25 hrs 21 mins
+Total Time: 28 hrs 43 mins
 
-TypeScript   5 hrs 18 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.78 %
-Python       5 hrs 16 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.67 %
-C            4 hrs 53 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.14 %
-HTML         4 hrs 16 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.76 %
-CSS          1 hr 49 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
+TypeScript   8 hrs 38 mins   ███████▒░░░░░░░░░░░░░░░░░   29.88 %
+Python       5 hrs 19 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.39 %
+C            4 hrs 53 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.91 %
+HTML         4 hrs 16 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.81 %
+CSS          1 hr 49 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
 ```
 
 <!--END_SECTION:waka-->
