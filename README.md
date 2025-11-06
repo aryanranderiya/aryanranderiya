@@ -135,15 +135,15 @@ CSS          16 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:monthly-->
 
 ```txt
-From: 04 October 2025 - To: 03 November 2025
+From: 05 October 2025 - To: 04 November 2025
 
-Total Time: 10 hrs 30 mins
+Total Time: 16 hrs 44 mins
 
-TypeScript   8 hrs 38 mins   ████████████████████▓░░░░   82.23 %
-Astro        54 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
-MDX          30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
-Python       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+TypeScript   13 hrs 38 mins  ████████████████████▒░░░░   81.50 %
+Astro        56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
+MDX          55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
+JSON         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+CSS          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
 ```
 
 <!--END_SECTION:monthly-->
