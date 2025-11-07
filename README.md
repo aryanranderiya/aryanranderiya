@@ -135,7 +135,7 @@ JSON         24 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:monthly-->
 
 ```txt
-From: 05 October 2025 - To: 04 November 2025
+From: 06 October 2025 - To: 05 November 2025
 
 Total Time: 16 hrs 44 mins
 
