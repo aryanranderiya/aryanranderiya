@@ -135,15 +135,15 @@ MDX          55 mins         █░░░░░░░░░░░░░░░░
 <!--START_SECTION:monthly-->
 
 ```txt
-From: 07 October 2025 - To: 06 November 2025
+From: 08 October 2025 - To: 07 November 2025
 
-Total Time: 21 hrs 5 mins
+Total Time: 23 hrs 40 mins
 
-TypeScript   17 hrs 12 mins  ████████████████████▒░░░░   80.78 %
-Astro        56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
-MDX          55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
-Python       53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-JSON         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+TypeScript   18 hrs 5 mins   ███████████████████░░░░░░   75.71 %
+Python       1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+JSON         1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+Astro        56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+MDX          55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
 ```
 
 <!--END_SECTION:monthly-->
