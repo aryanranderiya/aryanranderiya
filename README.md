@@ -108,15 +108,15 @@ Python Scripts / Apps
 <!--START_SECTION:weekly-->
 
 ```txt
-From: 01 November 2025 - To: 08 November 2025
+From: 02 November 2025 - To: 09 November 2025
 
-Total Time: 31 hrs 7 mins
+Total Time: 35 hrs 58 mins
 
-TypeScript   26 hrs 5 mins   ████████████████████▓░░░░   83.29 %
-JSON         1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-Python       1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-MDX          55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
-Markdown     45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+TypeScript   30 hrs 22 mins  █████████████████████░░░░   83.95 %
+JSON         1 hr 45 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+Python       1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+Markdown     48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Prisma       43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
 ```
 
 <!--END_SECTION:weekly-->
