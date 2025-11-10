@@ -135,15 +135,15 @@ Prisma       43 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:monthly-->
 
 ```txt
-From: 08 October 2025 - To: 07 November 2025
+From: 09 October 2025 - To: 08 November 2025
 
-Total Time: 23 hrs 40 mins
+Total Time: 35 hrs 42 mins
 
-TypeScript   18 hrs 5 mins   ███████████████████░░░░░░   75.71 %
-Python       1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
-JSON         1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
-Astro        56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-MDX          55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+TypeScript   29 hrs 25 mins  ████████████████████▒░░░░   81.94 %
+JSON         1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+Python       1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+Astro        56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+MDX          55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
 ```
 
 <!--END_SECTION:monthly-->
