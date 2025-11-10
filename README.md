@@ -153,15 +153,15 @@ MDX          55 mins         ▓░░░░░░░░░░░░░░░░
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 February 2024 - To: 07 November 2025
+From: 15 February 2024 - To: 09 November 2025
 
-Total Time: 41 hrs 53 mins
+Total Time: 61 hrs 19 mins
 
-TypeScript   18 hrs 5 mins   ██████████▓░░░░░░░░░░░░░░   42.75 %
-Python       6 hrs 24 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.13 %
-C            4 hrs 53 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
-HTML         4 hrs 16 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
-CSS          2 hrs 5 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+TypeScript   35 hrs 41 mins  ██████████████▒░░░░░░░░░░   57.80 %
+Python       6 hrs 24 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
+C            4 hrs 53 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
+HTML         4 hrs 16 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
+CSS          2 hrs 8 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
 ```
 
 <!--END_SECTION:waka-->
