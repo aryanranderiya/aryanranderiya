@@ -135,15 +135,15 @@ Markdown     57 mins         ▓░░░░░░░░░░░░░░░░
 <!--START_SECTION:monthly-->
 
 ```txt
-From: 09 October 2025 - To: 08 November 2025
+From: 10 October 2025 - To: 09 November 2025
 
-Total Time: 35 hrs 42 mins
+Total Time: 43 hrs 6 mins
 
-TypeScript   29 hrs 25 mins  ████████████████████▒░░░░   81.94 %
-JSON         1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
-Python       1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
-Astro        56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-MDX          55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+TypeScript   35 hrs 41 mins  ████████████████████▓░░░░   82.37 %
+JSON         1 hr 51 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+Python       1 hr 15 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+Astro        56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+MDX          55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
 ```
 
 <!--END_SECTION:monthly-->
