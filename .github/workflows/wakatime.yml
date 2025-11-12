@@ -60,3 +60,4 @@ jobs:
           SHOW_LOC_CHART: "True"
           SHOW_UPDATED_DATE: "True"
           LOCALE: "en"
+          IGNORED_REPOS: "RocketChat/Rocket.Chat"
