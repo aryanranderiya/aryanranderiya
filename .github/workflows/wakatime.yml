@@ -1,10 +1,8 @@
 name: Waka Readme
-
 on:
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * *" # 12 AM UTC / 5:30 AM IST
-
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
@@ -19,7 +17,6 @@ jobs:
           SHOW_TITLE: true
           TIME_RANGE: last_7_days
           SECTION_NAME: weekly
-
       - name: Monthly WakaTime Stats
         uses: athul/waka-readme@master
         with:
@@ -29,7 +26,6 @@ jobs:
           SHOW_TITLE: true
           TIME_RANGE: last_30_days
           SECTION_NAME: monthly
-
       - name: All Time WakaTime Stats
         uses: athul/waka-readme@master
         with:
