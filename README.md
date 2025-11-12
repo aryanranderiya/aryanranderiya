@@ -151,7 +151,7 @@ Markdown     1 hr 12 mins    ▓░░░░░░░░░░░░░░░░
 
 #### All Time
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:all_time-->
 
 ```txt
 From: 15 February 2024 - To: 11 November 2025
@@ -164,6 +164,10 @@ C            4 hrs 53 mins   █▓░░░░░░░░░░░░░░░
 HTML         4 hrs 16 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
 CSS          2 hrs 19 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
 ```
+
+<!--END_SECTION:all_time-->
+
+<!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
 
