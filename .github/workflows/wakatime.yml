@@ -37,7 +37,6 @@ jobs:
           SHOW_TOTAL: true
           SHOW_TITLE: true
           TIME_RANGE: all_time
-          SECTION_NAME: alltime
       
       # Comprehensive stats with anmol098/waka-readme-stats
       - name: Comprehensive Dev Metrics
@@ -45,7 +44,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SECTION_NAME: waka
+          SECTION_NAME: waka2
           SHOW_LINES_OF_CODE: "True"
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_PROFILE_VIEWS: "True"
