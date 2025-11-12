@@ -151,7 +151,7 @@ Markdown     1 hr 12 mins    ▓░░░░░░░░░░░░░░░░
 
 #### All Time
 
-<!--START_SECTION:all_time-->
+<!--START_SECTION:waka-->
 
 ```txt
 From: 15 February 2024 - To: 11 November 2025
@@ -165,11 +165,11 @@ HTML         4 hrs 16 mins   █▓░░░░░░░░░░░░░░░
 CSS          2 hrs 19 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
 ```
 
-<!--END_SECTION:all_time-->
-
-<!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
+
+<!--START_SECTION:waka2-->
+
+<!--END_SECTION:waka2-->
 
   
 <img alt="Aryan's Profile Summary!" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanranderiya&theme=transparent" height="190px"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryanranderiya&theme=transparent&utcOffset=5.3" height="200px">
