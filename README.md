@@ -124,8 +124,9 @@ Markdown     57 mins         ▓░░░░░░░░░░░░░░░░
 <details>
 <summary><h3>&nbsp;All Stats </h3></summary>
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Aryan's Streak Stats" src="https://github-readme-streak-stats-eight.vercel.app/?user=aryanranderiya&theme=react&date_format=j%20M%5B%20Y%5D&card_width=470&background=121212&border=transparent&border_radius=15" height="150px"/></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aryan's Github Stats" src="https://github-readme-stats-main-puce.vercel.app/api?username=aryanranderiya&show_icons=true&theme=react&bg_color=121212&border_color=00000000&border_radius=15" height="150px"/></a> <a href="https://github.com/anuraghazra/github-readme-stats">
-<img alt="Aryan's Top Languages" src="https://github-readme-stats-main-puce.vercel.app/api/top-langs/?username=aryanranderiya&layout=compact&theme=react&exclude_repo=github-readme-stats&bg_color=121212&size_weight=0.5&count_weight=0.5&langs_count=6&border_color=00000000&border_radius=15" height="150px"/>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Aryan's Streak Stats" src="https://github-readme-streak-stats-eight.vercel.app/?user=aryanranderiya&theme=react&date_format=j%20M%5B%20Y%5D&card_width=470&background=121212&border=transparent&border_radius=15" height="150px"/></a><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aryan's Top Languages" src="https://github-readme-stats-main-puce.vercel.app/api/top-langs/?username=aryanranderiya&layout=compact&theme=react&exclude_repo=github-readme-stats&bg_color=121212&size_weight=0.5&count_weight=0.5&langs_count=6&border_color=00000000&border_radius=15" height="150px"/>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aryan's Github Stats" src="https://github-readme-stats-main-puce.vercel.app/api?username=aryanranderiya&show_icons=true&theme=react&bg_color=121212&border_color=00000000&border_radius=15&rank_icon=percentile&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="280px"/></a> 
 </a>
 
 
