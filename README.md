@@ -135,15 +135,15 @@ MDX          2 hrs 24 mins   █▓░░░░░░░░░░░░░░░
 <!--START_SECTION:monthly-->
 
 ```txt
-From: 14 October 2025 - To: 13 November 2025
+From: 16 October 2025 - To: 15 November 2025
 
-Total Time: 62 hrs 9 mins
+Total Time: 69 hrs 34 mins
 
-TypeScript   41 hrs 52 mins  ████████████████▓░░░░░░░░   66.48 %
-Python       4 hrs 30 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
-TOML         3 hrs 21 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
-MDX          2 hrs 40 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-JSON         2 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+TypeScript   43 hrs 32 mins  ███████████████▒░░░░░░░░░   61.33 %
+Python       4 hrs 44 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
+YAML         4 hrs 28 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+TOML         3 hrs 46 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+MDX          3 hrs 19 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
 ```
 
 <!--END_SECTION:monthly-->
