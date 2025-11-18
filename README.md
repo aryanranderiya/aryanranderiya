@@ -107,15 +107,15 @@ Python Scripts / Apps
 <!--START_SECTION:weekly-->
 
 ```txt
-From: 09 November 2025 - To: 16 November 2025
+From: 10 November 2025 - To: 17 November 2025
 
-Total Time: 32 hrs 40 mins
+Total Time: 33 hrs 57 mins
 
-TypeScript   13 hrs 25 mins  ██████████░░░░░░░░░░░░░░░   39.57 %
-YAML         4 hrs 24 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 %
-TOML         3 hrs 57 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
-Python       3 hrs 56 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
-MDX          2 hrs 24 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+TypeScript   14 hrs 53 mins  ██████████▓░░░░░░░░░░░░░░   42.11 %
+Python       5 hrs 7 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 %
+YAML         4 hrs 26 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
+TOML         4 hrs 1 min     ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
+Bash         1 hr 46 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
 ```
 
 <!--END_SECTION:weekly-->
