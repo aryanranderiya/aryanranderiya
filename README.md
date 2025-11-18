@@ -135,15 +135,15 @@ Bash         1 hr 46 mins    █▒░░░░░░░░░░░░░░░
 <!--START_SECTION:monthly-->
 
 ```txt
-From: 16 October 2025 - To: 15 November 2025
+From: 17 October 2025 - To: 16 November 2025
 
-Total Time: 69 hrs 34 mins
+Total Time: 75 hrs 47 mins
 
-TypeScript   43 hrs 32 mins  ███████████████▒░░░░░░░░░   61.33 %
-Python       4 hrs 44 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
-YAML         4 hrs 28 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
-TOML         3 hrs 46 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
-MDX          3 hrs 19 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+TypeScript   49 hrs 6 mins   ████████████████░░░░░░░░░   63.58 %
+Python       5 hrs 11 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
+YAML         4 hrs 28 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
+TOML         3 hrs 57 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+MDX          3 hrs 19 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
 ```
 
 <!--END_SECTION:monthly-->
