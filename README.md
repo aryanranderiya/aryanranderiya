@@ -135,15 +135,15 @@ CSS          34 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:monthly-->
 
 ```txt
-From: 24 October 2025 - To: 23 November 2025
+From: 25 October 2025 - To: 24 November 2025
 
-Total Time: 127 hrs 33 mins
+Total Time: 129 hrs 1 min
 
-TypeScript    79 hrs 47 mins  ███████████████░░░░░░░░░░   59.93 %
-Python        21 hrs 49 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.40 %
-Other         5 hrs 33 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
-YAML          4 hrs 46 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
-TOML          4 hrs 22 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+TypeScript    80 hrs 34 mins  ███████████████░░░░░░░░░░   59.59 %
+Python        22 hrs 20 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.52 %
+Other         6 hrs 12 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+YAML          4 hrs 49 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+TOML          4 hrs 22 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
 ```
 
 <!--END_SECTION:monthly-->
