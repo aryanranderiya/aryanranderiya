@@ -135,15 +135,15 @@ JavaScript   2 hrs 3 mins    ██░░░░░░░░░░░░░░░
 <!--START_SECTION:monthly-->
 
 ```txt
-From: 31 October 2025 - To: 30 November 2025
+From: 01 November 2025 - To: 01 December 2025
 
-Total Time: 150 hrs 31 mins
+Total Time: 148 hrs 25 mins
 
-TypeScript    92 hrs 41 mins  ██████████████▒░░░░░░░░░░   57.87 %
-Python        24 hrs 24 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 %
-Other         9 hrs 38 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
-JSON          8 hrs 39 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-YAML          5 hrs 9 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+TypeScript    90 hrs 57 mins  ██████████████▒░░░░░░░░░░   57.51 %
+Python        24 hrs 24 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.43 %
+Other         9 hrs 43 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+JSON          9 hrs 11 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
+YAML          5 hrs 9 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
 ```
 
 <!--END_SECTION:monthly-->
