@@ -11,7 +11,6 @@
 
 - I’m currently working on a personal AI assistant called GAIA → [heygaia.io](https://heygaia.io)
 - Sometimes i write random blogs, you can check them out [here](https://blog.aryanranderiya.com).
-- I'm also a bit active on the tweeter (𝕏) so follow me [@aryanranderiya](https://blog.aryanranderiya.com). 
 - Check out [my Portfolio](https://aryanranderiya.com)!
 - Reach me at aryan@heygaia.io or [here](https://aryanranderiya.com/Contact). I try to read and respond to all my emails (within good reason)
 - A lot of my github repositories are client work that can't be published publicly, but you can read more about them on [my portfolio](https://aryanranderiya.com/SoftwareProjects)
