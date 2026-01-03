@@ -134,15 +134,15 @@ JSON         22 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:monthly-->
 
 ```txt
-From: 20 November 2025 - To: 20 December 2025
+From: 03 December 2025 - To: 02 January 2026
 
-Total Time: 128 hrs 20 mins
+Total Time: 119 hrs 54 mins
 
-TypeScript        74 hrs 39 mins  ████████████▓░░░░░░░░░░░░   50.46 %
-Python            20 hrs 13 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 %
-Other             19 hrs 36 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 %
-JSON              12 hrs 41 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
-TOML              4 hrs 38 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+TypeScript        57 hrs 36 mins  ██████████▓░░░░░░░░░░░░░░   42.38 %
+Python            32 hrs 36 mins  ██████░░░░░░░░░░░░░░░░░░░   23.99 %
+Other             16 hrs          ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
+JSON              9 hrs 7 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
+TOML              5 hrs 34 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
 ```
 
 <!--END_SECTION:monthly-->
