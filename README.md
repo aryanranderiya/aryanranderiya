@@ -106,15 +106,15 @@ Python Scripts / Apps
 <!--START_SECTION:weekly-->
 
 ```txt
-From: 13 December 2025 - To: 20 December 2025
+From: 26 December 2025 - To: 02 January 2026
 
-Total Time: 36 hrs 10 mins
+Total Time: 19 hrs 4 mins
 
-TypeScript    18 hrs 36 mins  ████████████▒░░░░░░░░░░░░   48.83 %
-Python        3 hrs 59 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
-JSON          3 hrs 54 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
-TOML          2 hrs 11 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
-Other         1 hr 55 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+Python       11 hrs 2 mins   ██████████████░░░░░░░░░░░   55.42 %
+TypeScript   6 hrs 56 mins   ████████▓░░░░░░░░░░░░░░░░   34.83 %
+Other        49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+CSS          34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+JSON         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
 ```
 
 <!--END_SECTION:weekly-->
