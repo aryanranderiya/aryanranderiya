@@ -134,15 +134,15 @@ Bash         59 mins         ▓░░░░░░░░░░░░░░░░
 <!--START_SECTION:monthly-->
 
 ```txt
-From: 03 December 2025 - To: 02 January 2026
+From: 10 December 2025 - To: 09 January 2026
 
-Total Time: 119 hrs 54 mins
+Total Time: 134 hrs 24 mins
 
-TypeScript        57 hrs 36 mins  ██████████▓░░░░░░░░░░░░░░   42.38 %
-Python            32 hrs 36 mins  ██████░░░░░░░░░░░░░░░░░░░   23.99 %
-Other             16 hrs          ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
-JSON              9 hrs 7 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
-TOML              5 hrs 34 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+TypeScript    50 hrs 48 mins  ████████▓░░░░░░░░░░░░░░░░   34.47 %
+Python        49 hrs 1 min    ████████▒░░░░░░░░░░░░░░░░   33.26 %
+Other         12 hrs 58 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
+JSON          9 hrs 19 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+TOML          5 hrs 42 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
 ```
 
 <!--END_SECTION:monthly-->
