@@ -1,7 +1,6 @@
 <!-- [![](https://github.com/user-attachments/assets/052c567f-ba6b-4a1d-9e23-d635f76496b3)](https://aryanranderiya.com) -->
 
-<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/193500b2-4ecf-466a-92b4-5aed2646fca1" />
-
+ [![](https://github.com/user-attachments/assets/193500b2-4ecf-466a-92b4-5aed2646fca1)](https://heygaia.io)
 
 # Hello World! &nbsp;<img src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/710e2c34-fb64-46db-8bbf-450c00dabe70" width=40px>  <img src="https://komarev.com/ghpvc/?username=aryanranderiya&color=00bbff&abbreviated=true" align="right" height="30px">
 
