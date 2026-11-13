@@ -1,12 +1,16 @@
 <img src="https://github.com/aryanranderiya/aryanranderiya/assets/64796509/710e2c34-fb64-46db-8bbf-450c00dabe70" width=40px>  
 
 <br />
+<br />
+
+hi! i'm a designer and have been tinkering with computers since i was young. you can read more about my work at [aryanranderiya.com](https://aryanranderiya.com).
+
+i also write sometimes on my [blog](https://aryanranderiya.com/blog).
 
 founder & ceo [@theexperiencecompany](https://github.com/theexperiencecompany)
 
-building the future of personal productivity - [GAIA](https://heygaia.io)
+we're building the personal assistant for everyone on earth called [GAIA](https://heygaia.io)
 
-[aryanranderiya.com](aryanranderiya.com)
 
 <!-- [![](https://github.com/user-attachments/assets/052c567f-ba6b-4a1d-9e23-d635f76496b3)](https://aryanranderiya.com) 
 <img src="https://komarev.com/ghpvc/?username=aryanranderiya&color=00bbff&abbreviated=true" align="right" height="30px">
